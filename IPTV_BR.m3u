@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:10, AXN - AXN
-http://209.91.213.10:8088/play/a011
-#EXTINF:10, Adult swim off the air - AXN
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:10, star plus - AXN
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:10, bandnews - AXN
-http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
-#EXTINF:10, Surf now tv - Surf 
-https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:10, Pluto TV Surf - Surf 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:10, My Surf TV - Surf 
-https://alchimie-mysurf-1-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0, *** MMA *** - *** MMA ***
 http://0.0.0.0
 #EXTINF:10, Fighting Spirit TV - Fighting Spirit
@@ -136,12 +122,11 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
 #EXTINF:30,CTV - CTV
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+
 #EXTINF:0, *** DESENHOS *** - *** DESENHOS *** 
 https://0.0.0.0
 #EXTINF:10, Pluto TV NickJr - NickJr Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
-#EXTINF:299,Rick and Morty - Rick and Morty (leg)
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:30, Retrô Cartoon - Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:30, Retrô Cartoon 2 - Cartoon 2
@@ -152,6 +137,11 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:29, Anime TV 2 - Anime 2
 http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
+#EXTINF:10, Adult swim off the air - AXN
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:299,Rick and Morty - Rick and Morty (leg)
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
 #EXTINF:0, *** TV ABERTA *** - *** TV ABERTA *** 
 https://0.0.0.0
 #EXTINF:22, Cultura (PR) - Catve
@@ -252,6 +242,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:60, Red Bull TV - Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:10, Pluto TV Surf - Surf 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:10, Pluto TV Motor Sports - Bumblebee TV Motor Cyclist
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
