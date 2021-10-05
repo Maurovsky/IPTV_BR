@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:0,*** FILMES E SÉRIES *** - *** FILMES E SÉRIES ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** FILMES E SÉRIES *** - *** FILMES E SÉRIES ***
 http://0.0.0.0
 #EXTINF:10 tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="Filmes",WHAM TV CLASSIC - WHAM TV
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
-#EXTINF:11,TV Nova Play - Nova Play
+#EXTINF:11 tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" group-title="Filmes",TV Nova Play - Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
-#EXTINF:12,Pluto TV Suspense - Filmes Suspense
+#EXTINF:12 tvg-logo="https://webtech-web-blu-assets.pluto.tv/assets/images/og_logo-9aeeae8b9656922ae6c516104741602f.png" group-title="Filmes",Pluto TV Suspense - Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:13,Pluto TV Terror - Terror
+#EXTINF:13 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Pluto TV Terror - Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:14,Pluto TV Ação - Filmes Ação
+#EXTINF:14 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Pluto TV Ação - Filmes Ação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:15,Pluto TV Comédia - Filmes Comédia 
+#EXTINF:15 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Pluto TV Comédia - Filmes Comédia 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:16,Pluto TV Investigação - Investigação
+#EXTINF:16 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Pluto TV Investigação - Investigação
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:20 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="Filmes",Rede TV Sul - TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:21,Osório News - Osório News
+#EXTINF:21 tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="Filmes",Osório News - Osório News
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:22,TV Rio Madeira - Rio Madeira
+#EXTINF:22 tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="Filmes",TV Rio Madeira - Rio Madeira
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
-#EXTINF:23,TV Pantanal MS - TV Pantanal
+#EXTINF:23 tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Filmes",TV Pantanal MS - TV Pantanal
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-#EXTINF:24,SUMMER TV - Summer TV
+#EXTINF:24 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",SUMMER TV - Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
-#EXTINF:26,Seven TV - Seven TV
+#EXTINF:26 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Seven TV - Seven TV
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
 
-#EXTINF:0,*** VARIEDADES *** - *** VARIEDADES *** 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** VARIEDADES *** - *** VARIEDADES *** 
 https://0.0.0.0
 #EXTINF:17,Pluto TV Tastemade - Tastemade
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
@@ -61,7 +61,7 @@ https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:28,WooHoo - WooHoo
 http://177.20.208.58:8000/play/a022/index.m3u8
 
-#EXTINF:0,*** RETRO *** - *** RETRO ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** RETRO *** - *** RETRO ***
 http://0.0.0.0
 #EXTINF:25,Vintage TV - Vintage TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
@@ -92,7 +92,7 @@ https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 #EXTINF:30,TV Séries - Star Trek
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
 
-#EXTINF:0,*** DESENHOS *** - *** DESENHOS *** 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** DESENHOS *** - *** DESENHOS *** 
 https://0.0.0.0
 #EXTINF:10,Pluto TV NickJr - NickJr Club
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
@@ -111,31 +111,33 @@ https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 #EXTINF:299,Adult Swim - Rick and Morty (leg)
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
-#EXTINF:0,*** TV ABERTA *** - *** TV ABERTA *** 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** TV ABERTA *** - *** TV ABERTA *** 
 https://0.0.0.0
-#EXTINF:22,Cultura (PR) - Catve
+#EXTINF:22 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="TV Aberta",Cultura (PR) - Catve
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:32,TV Jornal (PE) - SBT
+#EXTINF:32 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta",TV Jornal (PE) - SBT
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:10,Globo RJ - GLOBO
+#EXTINF:10 tvg-logo="https://s.glbimg.com/og/rg/static/img/redeglobo/logo-60x60.png" group-title="TV Aberta",Globo RJ - GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:10,Globo2 RJ - GLOBO
+#EXTINF:10 tvg-logo="https://s.glbimg.com/og/rg/static/img/redeglobo/logo-60x60.png" group-title="TV Aberta",Globo2 RJ - GLOBO
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:30,RecordTV RJ - RECORD
+#EXTINF:30  tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta",RecordTV RJ - RECORD
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
-#EXTINF:29,TV Pampa RS - RedeTV!
+#EXTINF:29  tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="TV Aberta",TV Pampa RS - RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
-#EXTINF:29,RedeTV! SP - RedeTV!
+#EXTINF:29 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="TV Aberta",RedeTV! SP - RedeTV!
 http://177.20.208.58:8000/play/a03p/index.m3u8
-#EXTINF:24,TV Alternativa - TV Gazeta MA
+#EXTINF:24 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="TV Aberta",TV Alternativa - TV Gazeta MA
 http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
-#EXTINF:32,TV Gazeta (SP) - Gazeta
+#EXTINF:32 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="TV Aberta",TV Gazeta (SP) - Gazeta
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
-#EXTINF:29,BAND SP - Band
+#EXTINF:29 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="TV Aberta",BAND SP - Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:30,TV Manchete - Manchete 
+#EXTINF:30 tvg-logo="https://listaiptv.gratis/logos/imagens/mancheteweb.png" group-title="TV Aberta",TV Manchete - Manchete 
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-#EXTINF:30,Record News - Record News
+#EXTINF:10 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="TV Aberta",Bandnews - Bandnews
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:10 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="TV Aberta",Record News - Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 #EXTINF:0,Rede Minas - Rede Minas
@@ -165,7 +167,7 @@ http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:30,TV ALMG - TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
 
-#EXTINF:0,*** MÚSICA *** - *** MÚSICA ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MÚSICA *** - *** MÚSICA ***
 https://0.0.0.0
 #EXTINF:17,CBN São Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
@@ -186,7 +188,7 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:30,Rock TV - Rock TV
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
 
-#EXTINF:0,*** MMA *** - *** MMA ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MMA *** - *** MMA ***
 http://0.0.0.0
 #EXTINF:10,Fighting Spirit TV - Fighting Spirit
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -211,7 +213,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539b
 #EXTINF:10,AVENTURA - PLUTO Latin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 
-#EXTINF:0,*** ESPORTES *** - *** ESPORTES ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** ESPORTES *** - *** ESPORTES ***
 https://0.0.0.0
 #EXTINF:10,Adventure Sports Network - Adventure Sports
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
