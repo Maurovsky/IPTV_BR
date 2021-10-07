@@ -301,3 +301,5 @@ http://12ca3echo.ga/SD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 http://13ca3echo.ga/HD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 #EXTINF:0,Premiere 6 SD
 http://13ca3echo.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:10,Tchello_TV.m3u  - Tchello TV
+https://github.com/Maurovsky/IPTV_BR/raw/main/Tchello_TV.m3u
