@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0, *** MMA *** - *** MMA ***
 http://0.0.0.0
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Viado - Tchello
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index.m3u8
 #EXTINF:10, BELLATOR - PLUTO BR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
 #EXTINF:10, BELLATOR - PLUTO usa
@@ -17,6 +19,36 @@ https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b43
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:10, COMBATE2 - PLUTO Latin
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:-1 group-title="Guia" tvg-logo="https://listaiptv.gratis/logos/imagens/info.png",*** TV à Cabo *** - *** TV à Cabo ***
+https://0.0.0.0
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN - AXN
+http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Channel - Sony
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel - Warner
+https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network - Paramount
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime - Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central - CC
+http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E - A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1 - Arte1
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",E! - E!
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",History - History
+http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/4P92vil.png",History 2 - History2
+https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV - MTV
+http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/ZjLSLiY.png",Nickelodeon - Nick
+http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index.m3u8
+#EXTINF:-1 group-title="Cabo" tvg-logo="https://bleedingcool.com/wp-content/uploads/2020/11/Plus-1.jpg",Impact! Plus - Nimbus Playout
+https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
 #EXTINF:0, *** FILMES E SÉRIES *** - *** FILMES E SÉRIES ***
 http://0.0.0.0
 #EXTINF:30 tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="Filmes", WHAM TV CLASSIC - WHAM TV
