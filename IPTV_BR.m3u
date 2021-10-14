@@ -4,7 +4,7 @@
 https://0.0.0.0
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN - AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Chanel - Sony
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel - Warner
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
@@ -20,9 +20,9 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u
 https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",E! - E!
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",History - History
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",Historychannel.br
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/4P92vil.png",History 2 - History2
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/4P92vil.png",H2.br
 https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/U6Rgjqs.png",MTV - MTV
 http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index.m3u8
