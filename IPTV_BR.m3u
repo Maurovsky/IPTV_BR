@@ -4,21 +4,21 @@
 https://0.0.0.0
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN.br
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Chanel.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony.br
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",WarnerChannel.br
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/yScrn6s.png",ParamountHD.br
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime.br
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/OAm1Jy6.png",Comedy Central.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/OAm1Jy6.png",ComedyCentral.br
 http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",AE.br
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1.br
 https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!.br
+#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",E.br
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",Historychannel.br
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
@@ -30,8 +30,7 @@ http://d31ii3fk8fd7mh.cloudfront.net/645d9a8a67e84aa88d4fa264e1a8cfd7/index.m3u8
 http://d1wwtskvr1r98k.cloudfront.net/dedf178260b54137904feebc16e3ac47/index.m3u8
 #EXTINF:-1 group-title="Cabo" tvg-logo="https://bleedingcool.com/wp-content/uploads/2020/11/Plus-1.jpg",Impact! Plus.br
 https://d2tuwvs0ja335j.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** FILMES E SÉRIES ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** FILMES E SÉRIES ***.br
 http://0.0.0.0
 #EXTINF:10 tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="Filmes",WHAM TV CLASSIC.br
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
@@ -59,9 +58,8 @@ https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
 #EXTINF:26 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="Filmes",Seven TV.br
 https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** VARIEDADES ***.br
-https://0.0.0.0.br
+https://0.0.0.0
 #EXTINF:17,Pluto TV Tastemade.br
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:18,TASTEMADE.br
@@ -92,8 +90,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:28,WooHoo.br
 http://177.20.208.58:8000/play/a022/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** RETRO ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** RETRO ***.br
 http://0.0.0.0
 #EXTINF:25,Vintage TV.br
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist.m3u8
@@ -123,8 +120,7 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 #EXTINF:30,TV Séries.br
 https://StmV1.srvstm.com/tvserie3/tvserie3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** DESENHOS ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** DESENHOS ***.br
 https://0.0.0.0
 #EXTINF:10,Pluto TV NickJr.br
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
@@ -142,18 +138,17 @@ http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
 #EXTINF:299,Adult Swim.br
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** TV ABERTA ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** TV ABERTA ***.br
 https://0.0.0.0
 #EXTINF:22 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="TV Aberta",Cultura (PR).br
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:32 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta",TV Jornal (PE).br
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:10 tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-belo-horizonte_l.png" group-title="TV Aberta",Globorj.br
+#EXTINF:10 tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-belo-horizonte_l.png" group-title="TV Aberta",Globorj.br.br
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:10 tvg-logo="https://s.glbimg.com/og/rg/static/img/redeglobo/logo-60x60.png" group-title="TV Aberta",Globorj.br
+#EXTINF:10 tvg-logo="https://s.glbimg.com/og/rg/static/img/redeglobo/logo-60x60.png" group-title="TV Aberta",Globorj.br.br
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-#EXTINF:30  tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta",Rederecordrj.br
+#EXTINF:30  tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="TV Aberta",Rederecordrj.br.br
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:29  tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="TV Aberta",TV Pampa RS.br
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
@@ -171,7 +166,6 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:10 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="TV Aberta",Record News.br
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
 #EXTINF:0,Rede Minas.br
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
 #EXTINF:29,Rede Brasil.br
@@ -198,8 +192,7 @@ https://tv.unisc.br/hls/test.m3u8
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:30,TV ALMG.br
 https://streaming.almg.gov.br/live/tvalmg.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MÚSICA ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MÚSICA ***.br
 https://0.0.0.0
 #EXTINF:17,CBN São Paulo.br
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
@@ -219,8 +212,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 #EXTINF:30,Rock TV.br
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MMA ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** MMA ***.br
 http://0.0.0.0
 #EXTINF:10,Fighting Spirit TV.br
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
@@ -244,8 +236,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e2
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
 #EXTINF:10,AVENTURA.br
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** ESPORTES ***
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Guia",*** ESPORTES ***.br
 https://0.0.0.0
 #EXTINF:10,Adventure Sports Network.br
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
@@ -259,7 +250,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:10,Pluto TV Surf.br
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#VALOR!
 #EXTINF:10,Pluto TV Motor Sports.br
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
 #EXTINF:10,Motorvision TV.br
@@ -270,7 +260,6 @@ http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 #EXTINF:57,Dubai Racing 2.br
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
-
 #EXTINF:60,Dubai Sports.br
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:60,Dubai Sports 2.br
@@ -333,3 +322,5 @@ http://12ca3echo.ga/SD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 http://13ca3echo.ga/HD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
 #EXTINF:0,Premiere 6 SD.br
 http://13ca3echo.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:10,Tchello_TV.m3u
+https://github.com/Maurovsky/IPTV_BR/raw/main/Tchello_TV.m3u
