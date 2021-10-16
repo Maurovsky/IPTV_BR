@@ -144,7 +144,7 @@ https://0.0.0.0
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 #EXTINF:32 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="TV Aberta",TV Jornal (PE).br
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
-#EXTINF:10 tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-belo-horizonte_l.png" group-title="TV Aberta",Globorj.br.br
+#EXTINF:10 tvg-logo="https://cdn.mitvstatic.com/channels/br_globo-belo-horizonte_l.png" group-title="TV Aberta",Globo Rio
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 #EXTINF:10 tvg-logo="https://s.glbimg.com/og/rg/static/img/redeglobo/logo-60x60.png" group-title="TV Aberta",Globorj.br.br
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
