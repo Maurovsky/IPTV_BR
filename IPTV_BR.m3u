@@ -1,30 +1,34 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Guia" tvg-logo="https://listaiptv.gratis/logos/imagens/info.png",*** TV à Cabo ***
-https://0.0.0.0
-#EXTINF:-1 tvg-id="" tvg-chno="001" group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN.br
-http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
-#EXTINF:-1 tvg-id="AXN.br" tvg-chno="002" group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",AXN - AXN
+#EXTINF:-1 tvg-id="Axn.br" tvg-chno="01" group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",01 - AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
 
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",Sony Chanel.br
+#EXTINF:-1 tvg-id="Sony.br" tvg-chno="02" group-title="Cabo" tvg-logo="http://i.imgur.com/KjvoSeG.png",02 - Sony Chanel
 http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",Warner Channel.br
+
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-chno="03" group-title="Cabo" tvg-logo="http://i.imgur.com/HBaycf4.png",03 - Warner Channel
 https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/yScrn6s.png",Paramount Network.br
-http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Bt7sDyU.png",Lifetime.br
-http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",A&E.br
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",Arte1.br
-https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",E!.br
-http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",Historychannel.br
+
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-chno="04" group-title="Cabo" tvg-logo="http://i.imgur.com/0oZXoaE.png",04 - History Channel
 http://d31ii3fk8fd7mh.cloudfront.net/b8d778839c0f4b88948bd24b1ec81ac9/index.m3u8
-#EXTINF:-1 group-title="Cabo" tvg-logo="http://i.imgur.com/4P92vil.png",H2.br
+
+#EXTINF:-1 tvg-id="H2.br" tvg-chno="05" group-title="Cabo" tvg-logo="http://i.imgur.com/4P92vil.png",05 - History 2
 https://d1wwtskvr1r98k.cloudfront.net/a3f915286ca6481d9a63ca0b0da41c79/index.m3u8
+
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-chno="06" group-title="Cabo" tvg-logo="http://i.imgur.com/yScrn6s.png",06 - Paramount
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index.m3u8
+
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-chno="07" group-title="Cabo" tvg-logo="http://i.imgur.com/Bt7sDyU.png",07 - Lifetime
+http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index.m3u8
+
+#EXTINF:-1 tvg-id="Ae.br" tvg-chno="08" group-title="Cabo" tvg-logo="https://toppng.com/uploads/preview/ae-television-vector-logo-free-download-11573980609atnqzvvwo5.png",08 - A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+
+#EXTINF:-1 tvg-id="Arte1.br" tvg-chno="09" group-title="Cabo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/1200px-Arte_1_logo.svg.png",09 - Arte1
+https://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index.m3u8
+
+#EXTINF:-1 tvg-id="E.br" tvg-chno="10" group-title="Cabo" tvg-logo="http://i.imgur.com/Vkg12Kw.png",10 - E!
+http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index.m3u8
 
 #EXTINF:-1 tvg-id="5f120e94a5714d00074576a1" tvg-chno="52" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="Filmes",Pluto TV Cine Sucessos
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
