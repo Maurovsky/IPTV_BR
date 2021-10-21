@@ -1,0 +1,31 @@
+-IPTV BRASIL
+http://bit.ly/iptvepgurl
+http://i.ontvbr.me/EPG
+https://cld.pt/dl/download/7a36f027-b90a-4be0-ba89-00acb7d82fa7/RHAEPG.xml
+
+-Ahazeto.xml
+http://rebrand.ly/Best4everEpg
+http://epg.best4ever.me/alphazeto.php
+
+-PT
+http://epg.soeu.ws
+http://91.121.110.96/guide.xml
+
+-Star TOP
+http://epg.starbr.top
+http://starbr.top/epg.xml
+
+-VIVO
+http://mepg.ddns.me/epg.xml
+
+http://abre.pw/epg
+http://abre.pw/mega-epg.xml
+
+http://epgontvhdbr.com/index.xml
+
+-PLUTO TV
+https://i.mjh.nz/PlutoTV/
+https://i.mjh.nz/PlutoTV/br.m3u8
+-EPG
+https://i.mjh.nz/PlutoTV/br.xml
+
