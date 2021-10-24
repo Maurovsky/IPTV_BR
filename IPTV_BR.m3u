@@ -107,6 +107,8 @@ https://tv.unisc.br/hls/test.m3u8
 http://in.uaimacks.net.br:1935/macks/macks.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVALMG.br" tvg-chno="" group-title="Aberta UHF" tvg-logo="",TV ALMG
 https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:-1 tvg-id="Web Tv Xtreme" tvg-chno="796" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/06/Design-sem-nome-5.jpg" group-title="Kids",Web Tv Xtreme
+https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
 
 #EXTINF:-1 tvg-id="Axn.br" tvg-chno="21" group-title="Cabo" tvg-logo="http://i.imgur.com/kNNpfSN.png",21 - AXN
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index.m3u8
@@ -245,3 +247,134 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60f8841a4865da0007421177" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/60f8841a4865da0007421177/colorLogoPNG.png" group-title="Estilo de Vida",Pluto TV Estilo de Vida
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Pluto TV NickJr - NickJr Club
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f121460b73ac6000719fbaf&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=706&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Retrô Cartoon - Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Retrô Cartoon 2 - Cartoon 2
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Animestation - Animestation
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Anime TV - Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG.png" group-title="Kids",Anime TV 2 - Anime 2
+http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="OffTheAir" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Comédia",Adult Swim - Off The Air
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="Rick&Morty" tvg-chno="" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG.png" group-title="Comédia",AS - Rick and Morty (leg)
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Adventure Sports Network - Adventure Sports
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Nitro TV - NITRO
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Pluto TV Action Sports - Action Sports
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",All Sports - All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Red Bull TV - Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Pluto TV Surf - Surf 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Pluto TV Motor Sports - Bumblebee TV Motor Cyclist
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Motorvision TV - Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Garage TV - Garage TV
+http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Dubai Racing - Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Dubai Racing 2 - Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Dubai Sports - Dubai Sports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Dubai Sports 2 - Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Dubai Sports 3 - Dubai Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Abu Dhabi Sports 1 - ADSports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Abu Dhabi Sports 2 - ADSports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Abu Dhabi Sports 3 - ADSports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Abu Dhabi Sports 4 - ADSports 4
+https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Eurosport 1(Espanhol)
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w1626503379_b1328000_sling.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",TNT Sports 1 HD
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Estádio TNT 1 SD
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",TNT Sports 2 HD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Estádio TNT 2 SD
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",TNT Sports 3 HD
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Estádio TNT 3 SD
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",TNT Sports 4 HD
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Estádio TNT 4 SD
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",TNT Sports 5 HD
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Estádio TNT 5 SD
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere Clubes HD
+http://20eua10india.cf/HD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere Clubes SD
+http://20eua10india.cf/SD_PFC_CLUBES/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 1 HD
+http://13ca3india.ga/HD_PFC_1/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 2 HD
+http://13ca3india.ga/HD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 2 SD
+http://13ca3india.ga/SD_PFC_2/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 3 HD
+http://13ca3india.ga/HD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 3 SD
+http://13ca3india.ga/SD_PFC_3/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 4 HD
+http://13ca3foxtrot.ga/HD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 4 SD
+http://13ca3foxtrot.ga/SD_PFC_4/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://12ca3echo.ga/HD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 5 SD
+http://12ca3echo.ga/SD_PFC_5/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 6 HD
+http://13ca3echo.ga/HD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Premiere 6 SD
+http://13ca3echo.ga/SD_PFC_6/video.m3u8?token=7d8486902dad6d53d228a1c8f8e928e0
+
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Fighting Spirit TV - Fighting Spirit
+https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",Fight Network - Fight Network 
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",BELLATOR - PLUTO BR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ebc8688f3697d00072f7cf8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=730&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",BELLATOR - PLUTO usa
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",FIGHT - MMA usa
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",MMA Junkie - Pluto usa
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",MMA Junkie2 - Pluto usa
+http://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",ESPN MMA - ESPN usa
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",COMBATE - PLUTO Latin
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",COMBATE2 - PLUTO Latin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
+#EXTINF:-1 tvg-id="" tvg-chno="" tvg-logo="" group-title="Esportes",AVENTURA - PLUTO Latin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
