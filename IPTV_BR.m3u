@@ -1,16 +1,18 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="WHAM TV" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="WebTV",WHAM TV CLASSIC - WHAM TV
+#EXTINF:-1 tvg-id="DarkMatter" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="Cabo",Dark Matter TV
+https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WHAM TV" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/wham.png" group-title="Cabo",WHAM TV CLASSIC - WHAM TV
 https://srv4.zcast.com.br/andre2183/andre2183/playlist.m3u8
-#EXTINF:-1 tvg-id="Nova Play" tvg-chno="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" group-title="WebTV",TV Nova Play - Nova Play
+#EXTINF:-1 tvg-id="Nova Play" tvg-chno="" tvg-logo="https://pbr-str.srvsite.com/arquivos/7839/cabecalho-7839-20200604004458.jpg" group-title="Cabo",TV Nova Play - Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Sul" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="WebTV",Rede TV Sul - TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 #EXTINF:-1 tvg-id="Osório" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/kronosmovie.png" group-title="WebTV",Osório News - Osório News
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-#EXTINF:-1 tvg-id="Rio Madeira" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="WebTV",TV Rio Madeira - Rio Madeira
+#EXTINF:-1 tvg-id="Rio Madeira" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/riomadeira.png" group-title="Cabo",TV Rio Madeira - Rio Madeira
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Pantanal" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="WebTV",TV Pantanal MS - TV Pantanal
+#EXTINF:-1 tvg-id="TV Pantanal" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="Cabo",TV Pantanal MS - TV Pantanal
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
 #EXTINF:-1 tvg-id="Summer TV" tvg-chno="" tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="WebTV",SUMMER TV - Summer TV
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist.m3u8
