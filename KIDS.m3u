@@ -222,14 +222,10 @@ http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/chunklist_w1626503379_b
 
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Fonte TV 
 http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Gospel Cartoon 
-https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Gospel Movie TV 
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",IMPD TV 
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",ITV 
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Nova Era TV 
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Novo Tempo 
@@ -246,8 +242,6 @@ https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/in
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Pai Eterno 
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Pai Eterno 
-https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Terceiro Anjo 
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 
