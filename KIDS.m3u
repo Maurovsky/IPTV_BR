@@ -236,12 +236,12 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Rede Super 
 https://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",Rede Século 21 
-https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Nova Onda 
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Pai Eterno 
 http://flash8.crossdigital.com.br/2306/2306/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Pai Eterno 
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="99" tvg-logo="" group-title="Religiosos",TV Terceiro Anjo 
 https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
 
