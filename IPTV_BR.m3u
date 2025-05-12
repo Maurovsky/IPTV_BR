@@ -51,6 +51,9 @@ https://cc7d37a17d3f4d0c8c82f9778df832ca.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="" group-title="ABERTA",TV Gazeta
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10658
 
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/EgKx2J1.png" group-title="ABERTA",RedeTV! SP
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+
 #EXTINF:-1 tvg-name="CNN BRASIL" tvg-id="CNN BRASIL" tvg-logo="https://i.imgur.com/4dfmnBs.png" group-title="NOTÍCIAS",CNN BRASIL SD
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-640x360/playlist.m3u8
 
