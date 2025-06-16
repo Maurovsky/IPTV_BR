@@ -1,5 +1,1805 @@
 #EXTM3U 
 
+#EXTINF:-1  tvg-id="1" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv.png" group-title="Favoritos",SPORTV FHD
+http://lojamais.cyou:80/162154782/978753257/685172
+
+#EXTINF:-1  tvg-id="3" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-2.png" group-title="Favoritos",SPORTV 2 FHD
+http://lojamais.cyou:80/162154782/978753257/685171
+
+#EXTINF:-1  tvg-id="4" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-3.png" group-title="Favoritos",SPORTV 3 FHD
+http://lojamais.cyou:80/162154782/978753257/141561
+
+#EXTINF:-1  tvg-id="5" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="Favoritos",ESPN FHD
+http://lojamais.cyou:80/162154782/978753257/404920
+
+#EXTINF:-1  tvg-id="6" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="Favoritos",ESPN 2 FHD
+http://lojamais.cyou:80/162154782/978753257/337727
+
+#EXTINF:-1  tvg-id="7" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="Favoritos",ESPN 3 FHD
+http://lojamais.cyou:80/162154782/978753257/338057
+
+#EXTINF:-1  tvg-id="8" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="Favoritos",ESPN 4 FHD
+http://lojamais.cyou:80/162154782/978753257/141559
+
+#EXTINF:-1  tvg-id="10" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="Favoritos",ESPN FHD
+http://lojamais.cyou:80/446995713/137514716/404920
+
+#EXTINF:-1  tvg-id="11" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="Favoritos",ESPN 2 FHD
+http://lojamais.cyou:80/446995713/137514716/337727
+
+#EXTINF:-1  tvg-id="12" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="Favoritos",ESPN 3 FHD
+http://lojamais.cyou:80/446995713/137514716/338057
+
+#EXTINF:-1  tvg-id="13" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="Favoritos",ESPN 4 FHD
+http://lojamais.cyou:80/446995713/137514716/141559
+
+#EXTINF:-1  tvg-id="14" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv.png" group-title="Favoritos",SPORTV 01 FHD²
+http://longitudenow.site:80/23876546/64567832/5365102
+
+#EXTINF:-1  tvg-id="15" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-2.png" group-title="Favoritos",SPORTV 02 FHD
+http://longitudenow.site:80/23876546/64567832/631421
+
+#EXTINF:-1  tvg-id="16" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-3.png" group-title="Favoritos",SPORTV 03 FHD
+http://longitudenow.site:80/23876546/64567832/5427855
+
+#EXTINF:-1  tvg-id="21" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="Favoritos",ESPN 01 FHD
+http://longitudenow.site:80/23876546/64567832/631064
+
+#EXTINF:-1  tvg-id="22" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="Favoritos",ESPN 02 FHD
+http://longitudenow.site:80/23876546/64567832/5181930
+
+#EXTINF:-1  tvg-id="23" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="Favoritos",ESPN 03 FHD²
+http://longitudenow.site:80/23876546/64567832/5365872
+
+#EXTINF:-1  tvg-id="24" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="Favoritos",ESPN 04 FHD²
+http://longitudenow.site:80/23876546/64567832/5366329
+
+#EXTINF:-1  tvg-id="25" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-5.png" group-title="Favoritos",ESPN 05 FHD²
+http://longitudenow.site:80/23876546/64567832/5366751
+
+#EXTINF:-1  tvg-id="26" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-6.png" group-title="Favoritos",ESPN 06 FHD²
+http://longitudenow.site:80/23876546/64567832/5367286
+
+#EXTINF:-1  tvg-id="31" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" group-title="2 - Servidor 2",UFC FIGHT PASS 1
+http://lojamais.cyou:80/162154782/978753257/550621
+
+#EXTINF:-1  tvg-id="32" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" group-title="2 - Servidor 2",UFC FIGHT PASS 2
+http://lojamais.cyou:80/162154782/978753257/550622
+
+#EXTINF:-1  tvg-id="33" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" group-title="2 - Servidor 2",UFC FIGHT PASS 3
+http://lojamais.cyou:80/162154782/978753257/1824531
+
+#EXTINF:-1  tvg-id="34" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" group-title="3 - Servidor 3",UFC FIGHT PASS 01 HD  (AO VIVO)
+http://longitudenow.site:80/23876546/64567832/4482315
+
+#EXTINF:-1  tvg-id="35" tvg-logo="https://img.inboxbr.pro/icones_channels/ufc-fight-pass.png" group-title="3 - Servidor 3",UFC FIGHT PASS 02 HD (AO VIVO)
+http://longitudenow.site:80/23876546/64567832/1632894
+
+#EXTINF:-1  tvg-id="162" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBES FHD¹
+http://lojamais.cyou:80/162154782/978753257/338391
+
+#EXTINF:-1  tvg-id="163" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 2 FHD
+http://lojamais.cyou:80/162154782/978753257/338394
+
+#EXTINF:-1  tvg-id="164" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 3 FHD
+http://lojamais.cyou:80/162154782/978753257/141517
+
+#EXTINF:-1  tvg-id="165" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 4 FHD
+http://lojamais.cyou:80/162154782/978753257/141518
+
+#EXTINF:-1  tvg-id="166" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 5 FHD
+http://lojamais.cyou:80/162154782/978753257/338403
+
+#EXTINF:-1  tvg-id="167" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 6 FHD
+http://lojamais.cyou:80/162154782/978753257/338406
+
+#EXTINF:-1  tvg-id="168" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 7 FHD
+http://lojamais.cyou:80/162154782/978753257/338409
+
+#EXTINF:-1  tvg-id="169" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBES FHD²
+http://lojamais.cyou:80/162154782/978753257/380715
+
+#EXTINF:-1  tvg-id="171" tvg-logo="" group-title="2 - Servidor 2",COMBATE FHD
+http://lojamais.cyou:80/162154782/978753257/285996
+
+#EXTINF:-1  tvg-id="177" tvg-logo="" group-title="2 - Servidor 2",BAND NEWS FHD
+http://lojamais.cyou:80/162154782/978753257/404644
+
+#EXTINF:-1  tvg-id="178" tvg-logo="" group-title="2 - Servidor 2",BAND NEWS FHD*
+http://lojamais.cyou:80/162154782/978753257/685180
+
+#EXTINF:-1  tvg-id="179" tvg-logo="" group-title="2 - Servidor 2",CNN BRASIL FHD
+http://lojamais.cyou:80/162154782/978753257/404649
+
+#EXTINF:-1  tvg-id="180" tvg-logo="" group-title="2 - Servidor 2",CNN BRASIL FHD*
+http://lojamais.cyou:80/162154782/978753257/685178
+
+#EXTINF:-1  tvg-id="181" tvg-logo="" group-title="2 - Servidor 2",GLOBO NEWS FHD
+http://lojamais.cyou:80/162154782/978753257/404641
+
+#EXTINF:-1  tvg-id="182" tvg-logo="" group-title="2 - Servidor 2",JOVEM PAN FHD
+http://lojamais.cyou:80/162154782/978753257/404652
+
+#EXTINF:-1  tvg-id="183" tvg-logo="" group-title="2 - Servidor 2",JOVEM PAN FHD*
+http://lojamais.cyou:80/162154782/978753257/686955
+
+#EXTINF:-1  tvg-id="184" tvg-logo="" group-title="2 - Servidor 2",RECORD NEWS FHD
+http://lojamais.cyou:80/162154782/978753257/404638
+
+#EXTINF:-1  tvg-id="185" tvg-logo="" group-title="2 - Servidor 2",ANIMAL PLANET FHD
+http://lojamais.cyou:80/162154782/978753257/141663
+
+#EXTINF:-1  tvg-id="187" tvg-logo="" group-title="2 - Servidor 2",AMAZON PRIME 01
+http://lojamais.cyou:80/162154782/978753257/688349
+
+#EXTINF:-1  tvg-id="188" tvg-logo="" group-title="2 - Servidor 2",AMAZON PRIME 02
+http://lojamais.cyou:80/162154782/978753257/688350
+
+#EXTINF:-1  tvg-id="189" tvg-logo="" group-title="2 - Servidor 2",AMAZON PRIME 03
+http://lojamais.cyou:80/162154782/978753257/688351
+
+#EXTINF:-1  tvg-id="190" tvg-logo="" group-title="2 - Servidor 2",ANIMAL PLANET HD
+http://lojamais.cyou:80/162154782/978753257/141635
+
+#EXTINF:-1  tvg-id="194" tvg-logo="" group-title="2 - Servidor 2",AWTV
+http://lojamais.cyou:80/162154782/978753257/1609875
+
+#EXTINF:-1  tvg-id="197" tvg-logo="" group-title="2 - Servidor 2",BAND FHD
+http://lojamais.cyou:80/162154782/978753257/141395
+
+#EXTINF:-1  tvg-id="199" tvg-logo="" group-title="2 - Servidor 2",BAND NEWS HD
+http://lojamais.cyou:80/162154782/978753257/404645
+
+#EXTINF:-1  tvg-id="200" tvg-logo="" group-title="2 - Servidor 2",BAND RJ FHD
+http://lojamais.cyou:80/162154782/978753257/410361
+
+#EXTINF:-1  tvg-id="204" tvg-logo="" group-title="2 - Servidor 2",BAND SP FHD
+http://lojamais.cyou:80/162154782/978753257/292157
+
+#EXTINF:-1  tvg-id="205" tvg-logo="" group-title="2 - Servidor 2",BAND SP HD
+http://lojamais.cyou:80/162154782/978753257/251998
+
+#EXTINF:-1  tvg-id="207" tvg-logo="" group-title="2 - Servidor 2",BAND SPORTS FHD
+http://lojamais.cyou:80/162154782/978753257/404915
+
+#EXTINF:-1  tvg-id="208" tvg-logo="" group-title="2 - Servidor 2",BAND SPORTS HD
+http://lojamais.cyou:80/162154782/978753257/404914
+
+#EXTINF:-1  tvg-id="210" tvg-logo="" group-title="2 - Servidor 2",BEM TV
+http://lojamais.cyou:80/162154782/978753257/1609946
+
+#EXTINF:-1  tvg-id="211" tvg-logo="" group-title="2 - Servidor 2",BIS HD
+http://lojamais.cyou:80/162154782/978753257/141563
+
+#EXTINF:-1  tvg-id="213" tvg-logo="" group-title="2 - Servidor 2",BLITS TV
+http://lojamais.cyou:80/162154782/978753257/1609963
+
+#EXTINF:-1  tvg-id="214" tvg-logo="" group-title="2 - Servidor 2",Canal 29 - WebTV
+http://lojamais.cyou:80/162154782/978753257/1609904
+
+#EXTINF:-1  tvg-id="216" tvg-logo="" group-title="2 - Servidor 2",CANAL DO BOI HD
+http://lojamais.cyou:80/162154782/978753257/1607915
+
+#EXTINF:-1  tvg-id="217" tvg-logo="" group-title="2 - Servidor 2",Canal Educação
+http://lojamais.cyou:80/162154782/978753257/1609863
+
+#EXTINF:-1  tvg-id="218" tvg-logo="" group-title="2 - Servidor 2",Canal GOAT 1
+http://lojamais.cyou:80/162154782/978753257/1404723
+
+#EXTINF:-1  tvg-id="219" tvg-logo="" group-title="2 - Servidor 2",Canal GOAT 2
+http://lojamais.cyou:80/162154782/978753257/1404724
+
+#EXTINF:-1  tvg-id="220" tvg-logo="" group-title="2 - Servidor 2",Canal Gov
+http://lojamais.cyou:80/162154782/978753257/1609862
+
+#EXTINF:-1  tvg-id="221" tvg-logo="" group-title="2 - Servidor 2",Canal Rural HD
+http://lojamais.cyou:80/162154782/978753257/1378919
+
+#EXTINF:-1  tvg-id="223" tvg-logo="" group-title="2 - Servidor 2",CANÇÃO NOVA HD¹
+http://lojamais.cyou:80/162154782/978753257/221668
+
+#EXTINF:-1  tvg-id="225" tvg-logo="" group-title="2 - Servidor 2",Caze 1
+http://lojamais.cyou:80/162154782/978753257/1827625
+
+#EXTINF:-1  tvg-id="226" tvg-logo="" group-title="2 - Servidor 2",Caze 2
+http://lojamais.cyou:80/162154782/978753257/1827626
+
+#EXTINF:-1  tvg-id="227" tvg-logo="" group-title="2 - Servidor 2",Caze 3
+http://lojamais.cyou:80/162154782/978753257/1827627
+
+#EXTINF:-1  tvg-id="228" tvg-logo="" group-title="2 - Servidor 2",Caze 4
+http://lojamais.cyou:80/162154782/978753257/1827628
+
+#EXTINF:-1  tvg-id="229" tvg-logo="" group-title="2 - Servidor 2",Central TV
+http://lojamais.cyou:80/162154782/978753257/1609890
+
+#EXTINF:-1  tvg-id="230" tvg-logo="" group-title="2 - Servidor 2",CLASSIQUE TV
+http://lojamais.cyou:80/162154782/978753257/1609959
+
+#EXTINF:-1  tvg-id="231" tvg-logo="" group-title="2 - Servidor 2",CNN BRASIL HD
+http://lojamais.cyou:80/162154782/978753257/404650
+
+#EXTINF:-1  tvg-id="232" tvg-logo="" group-title="2 - Servidor 2",CNN BRASIL HD*
+http://lojamais.cyou:80/162154782/978753257/686956
+
+#EXTINF:-1  tvg-id="233" tvg-logo="" group-title="2 - Servidor 2",CNN BRASIL HD¹
+http://lojamais.cyou:80/162154782/978753257/404648
+
+#EXTINF:-1  tvg-id="234" tvg-logo="" group-title="2 - Servidor 2",COMBATE HD
+http://lojamais.cyou:80/162154782/978753257/404916
+
+#EXTINF:-1  tvg-id="236" tvg-logo="" group-title="2 - Servidor 2",COMEDY CENTRAL FHD
+http://lojamais.cyou:80/162154782/978753257/685429
+
+#EXTINF:-1  tvg-id="237" tvg-logo="" group-title="2 - Servidor 2",COMEDY CENTRAL HD
+http://lojamais.cyou:80/162154782/978753257/141565
+
+#EXTINF:-1  tvg-id="239" tvg-logo="" group-title="2 - Servidor 2",CONEXAO TV
+http://lojamais.cyou:80/162154782/978753257/1609984
+
+#EXTINF:-1  tvg-id="240" tvg-logo="" group-title="2 - Servidor 2",CURTA! HD
+http://lojamais.cyou:80/162154782/978753257/141637
+
+#EXTINF:-1  tvg-id="242" tvg-logo="" group-title="2 - Servidor 2",DarkFlix HD
+http://lojamais.cyou:80/162154782/978753257/1609877
+
+#EXTINF:-1  tvg-id="243" tvg-logo="" group-title="2 - Servidor 2",DAZN 1
+http://lojamais.cyou:80/162154782/978753257/409208
+
+#EXTINF:-1  tvg-id="244" tvg-logo="" group-title="2 - Servidor 2",DAZN 2
+http://lojamais.cyou:80/162154782/978753257/409209
+
+#EXTINF:-1  tvg-id="245" tvg-logo="" group-title="2 - Servidor 2",Deutsche Welle
+http://lojamais.cyou:80/162154782/978753257/1609921
+
+#EXTINF:-1  tvg-id="246" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY CHANNEL FHD
+http://lojamais.cyou:80/162154782/978753257/141668
+
+#EXTINF:-1  tvg-id="247" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY CHANNEL HD
+http://lojamais.cyou:80/162154782/978753257/141639
+
+#EXTINF:-1  tvg-id="249" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY HOME & HEALTH FHD
+http://lojamais.cyou:80/162154782/978753257/141669
+
+#EXTINF:-1  tvg-id="250" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY HOME & HEALTH HD
+http://lojamais.cyou:80/162154782/978753257/141641
+
+#EXTINF:-1  tvg-id="252" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY SCIENCE FHD
+http://lojamais.cyou:80/162154782/978753257/403771
+
+#EXTINF:-1  tvg-id="253" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY SCIENCE HD
+http://lojamais.cyou:80/162154782/978753257/141643
+
+#EXTINF:-1  tvg-id="255" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY THEATER HD
+http://lojamais.cyou:80/162154782/978753257/141645
+
+#EXTINF:-1  tvg-id="257" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY THEATHER FHD
+http://lojamais.cyou:80/162154782/978753257/141667
+
+#EXTINF:-1  tvg-id="258" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TLC FHD
+http://lojamais.cyou:80/162154782/978753257/387055
+
+#EXTINF:-1  tvg-id="260" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TLC HD
+http://lojamais.cyou:80/162154782/978753257/141418
+
+#EXTINF:-1  tvg-id="262" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TURBO FHD
+http://lojamais.cyou:80/162154782/978753257/141664
+
+#EXTINF:-1  tvg-id="263" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TURBO HD
+http://lojamais.cyou:80/162154782/978753257/141647
+
+#EXTINF:-1  tvg-id="265" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY WORLD FHD
+http://lojamais.cyou:80/162154782/978753257/403768
+
+#EXTINF:-1  tvg-id="267" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY WORLD HD
+http://lojamais.cyou:80/162154782/978753257/141649
+
+#EXTINF:-1  tvg-id="269" tvg-logo="" group-title="2 - Servidor 2",Disney+ 01 HD
+http://lojamais.cyou:80/162154782/978753257/2030267
+
+#EXTINF:-1  tvg-id="270" tvg-logo="" group-title="2 - Servidor 2",Disney+ 02 HD
+http://lojamais.cyou:80/162154782/978753257/2030268
+
+#EXTINF:-1  tvg-id="271" tvg-logo="" group-title="2 - Servidor 2",Disney+ 03 HD
+http://lojamais.cyou:80/162154782/978753257/2030269
+
+#EXTINF:-1  tvg-id="272" tvg-logo="" group-title="2 - Servidor 2",Disney+ 1 HD
+http://lojamais.cyou:80/162154782/978753257/2030270
+
+#EXTINF:-1  tvg-id="273" tvg-logo="" group-title="2 - Servidor 2",Disney+ 2 HD
+http://lojamais.cyou:80/162154782/978753257/2030271
+
+#EXTINF:-1  tvg-id="274" tvg-logo="" group-title="2 - Servidor 2",Disney+ 3 HD²
+http://lojamais.cyou:80/162154782/978753257/2030272
+
+#EXTINF:-1  tvg-id="275" tvg-logo="" group-title="2 - Servidor 2",Disney+ 4 HD²
+http://lojamais.cyou:80/162154782/978753257/2030273
+
+#EXTINF:-1  tvg-id="276" tvg-logo="" group-title="2 - Servidor 2",Disney+ 5 HD²
+http://lojamais.cyou:80/162154782/978753257/2030274
+
+#EXTINF:-1  tvg-id="277" tvg-logo="" group-title="2 - Servidor 2",Disney+ 6 HD²
+http://lojamais.cyou:80/162154782/978753257/2030275
+
+#EXTINF:-1  tvg-id="278" tvg-logo="" group-title="2 - Servidor 2",E! HD
+http://lojamais.cyou:80/162154782/978753257/141651
+
+#EXTINF:-1  tvg-id="280" tvg-logo="" group-title="2 - Servidor 2",ELYTV
+http://lojamais.cyou:80/162154782/978753257/1609965
+
+#EXTINF:-1  tvg-id="281" tvg-logo="" group-title="2 - Servidor 2",ESPN HD
+http://lojamais.cyou:80/162154782/978753257/404919
+
+#EXTINF:-1  tvg-id="283" tvg-logo="" group-title="2 - Servidor 2",ESPN 2 HD
+http://lojamais.cyou:80/162154782/978753257/404921
+
+#EXTINF:-1  tvg-id="285" tvg-logo="" group-title="2 - Servidor 2",ESPN 3 HD
+http://lojamais.cyou:80/162154782/978753257/338056
+
+#EXTINF:-1  tvg-id="287" tvg-logo="" group-title="2 - Servidor 2",ESPN 4 HD
+http://lojamais.cyou:80/162154782/978753257/404924
+
+#EXTINF:-1  tvg-id="288" tvg-logo="" group-title="2 - Servidor 2",ESPN EXTRA HD
+http://lojamais.cyou:80/162154782/978753257/404925
+
+#EXTINF:-1  tvg-id="291" tvg-logo="" group-title="2 - Servidor 2",FASHION TV FHD
+http://lojamais.cyou:80/162154782/978753257/685165
+
+#EXTINF:-1  tvg-id="292" tvg-logo="" group-title="2 - Servidor 2",FISH TV FHD
+http://lojamais.cyou:80/162154782/978753257/392226
+
+#EXTINF:-1  tvg-id="294" tvg-logo="" group-title="2 - Servidor 2",FISH TV HD
+http://lojamais.cyou:80/162154782/978753257/141567
+
+#EXTINF:-1  tvg-id="296" tvg-logo="" group-title="2 - Servidor 2",FonteTV (GO)
+http://lojamais.cyou:80/162154782/978753257/1609892
+
+#EXTINF:-1  tvg-id="297" tvg-logo="" group-title="2 - Servidor 2",FOOD NETWORK HD
+http://lojamais.cyou:80/162154782/978753257/141569
+
+#EXTINF:-1  tvg-id="299" tvg-logo="" group-title="2 - Servidor 2",FUTURA HD
+http://lojamais.cyou:80/162154782/978753257/141391
+
+#EXTINF:-1  tvg-id="335" tvg-logo="" group-title="2 - Servidor 2",GLOBO NEWS HD
+http://lojamais.cyou:80/162154782/978753257/404642
+
+#EXTINF:-1  tvg-id="351" tvg-logo="" group-title="2 - Servidor 2",GLOBO RJ FHD
+http://lojamais.cyou:80/162154782/978753257/549768
+
+#EXTINF:-1  tvg-id="352" tvg-logo="" group-title="2 - Servidor 2",GLOBO RJ HD
+http://lojamais.cyou:80/162154782/978753257/336850
+
+#EXTINF:-1  tvg-id="366" tvg-logo="" group-title="2 - Servidor 2",GLOBO SP FHD
+http://lojamais.cyou:80/162154782/978753257/356694
+
+#EXTINF:-1  tvg-id="367" tvg-logo="" group-title="2 - Servidor 2",GLOBO SP HD
+http://lojamais.cyou:80/162154782/978753257/141338
+
+#EXTINF:-1  tvg-id="384" tvg-logo="" group-title="2 - Servidor 2",GNT FHD
+http://lojamais.cyou:80/162154782/978753257/392222
+
+#EXTINF:-1  tvg-id="385" tvg-logo="" group-title="2 - Servidor 2",GNT HD
+http://lojamais.cyou:80/162154782/978753257/141573
+
+#EXTINF:-1  tvg-id="387" tvg-logo="" group-title="2 - Servidor 2",Gospel Cartoon
+http://lojamais.cyou:80/162154782/978753257/1609886
+
+#EXTINF:-1  tvg-id="388" tvg-logo="" group-title="2 - Servidor 2",Gospel Movie TV
+http://lojamais.cyou:80/162154782/978753257/1609887
+
+#EXTINF:-1  tvg-id="389" tvg-logo="" group-title="2 - Servidor 2",Gospel Music
+http://lojamais.cyou:80/162154782/978753257/1609888
+
+#EXTINF:-1  tvg-id="390" tvg-logo="" group-title="2 - Servidor 2",GuiaTV
+http://lojamais.cyou:80/162154782/978753257/1609872
+
+#EXTINF:-1  tvg-id="391" tvg-logo="" group-title="2 - Servidor 2",HISTORY FHD
+http://lojamais.cyou:80/162154782/978753257/141671
+
+#EXTINF:-1  tvg-id="392" tvg-logo="" group-title="2 - Servidor 2",HISTORY HD
+http://lojamais.cyou:80/162154782/978753257/141657
+
+#EXTINF:-1  tvg-id="394" tvg-logo="" group-title="2 - Servidor 2",H2 FHD
+http://lojamais.cyou:80/162154782/978753257/380159
+
+#EXTINF:-1  tvg-id="396" tvg-logo="" group-title="2 - Servidor 2",H2 HD
+http://lojamais.cyou:80/162154782/978753257/141653
+
+#EXTINF:-1  tvg-id="398" tvg-logo="" group-title="2 - Servidor 2",HBO 2 HD
+http://lojamais.cyou:80/162154782/978753257/141486
+
+#EXTINF:-1  tvg-id="399" tvg-logo="" group-title="2 - Servidor 2",HBO FAMILY HD
+http://lojamais.cyou:80/162154782/978753257/141488
+
+#EXTINF:-1  tvg-id="400" tvg-logo="" group-title="2 - Servidor 2",HBO FHD
+http://lojamais.cyou:80/162154782/978753257/685177
+
+#EXTINF:-1  tvg-id="401" tvg-logo="" group-title="2 - Servidor 2",HBO HD
+http://lojamais.cyou:80/162154782/978753257/141490
+
+#EXTINF:-1  tvg-id="403" tvg-logo="" group-title="2 - Servidor 2",HBO MUNDI FHD
+http://lojamais.cyou:80/162154782/978753257/141492
+
+#EXTINF:-1  tvg-id="404" tvg-logo="" group-title="2 - Servidor 2",HBO MUNDI HD
+http://lojamais.cyou:80/162154782/978753257/141493
+
+#EXTINF:-1  tvg-id="407" tvg-logo="" group-title="2 - Servidor 2",HBO PLUS HD
+http://lojamais.cyou:80/162154782/978753257/141484
+
+#EXTINF:-1  tvg-id="410" tvg-logo="" group-title="2 - Servidor 2",HBO POP FHD
+http://lojamais.cyou:80/162154782/978753257/141496
+
+#EXTINF:-1  tvg-id="412" tvg-logo="" group-title="2 - Servidor 2",HBO POP HD
+http://lojamais.cyou:80/162154782/978753257/141497
+
+#EXTINF:-1  tvg-id="414" tvg-logo="" group-title="2 - Servidor 2",HBO SIGNATURE HD
+http://lojamais.cyou:80/162154782/978753257/141499
+
+#EXTINF:-1  tvg-id="415" tvg-logo="" group-title="2 - Servidor 2",HBO XTREME HD
+http://lojamais.cyou:80/162154782/978753257/141501
+
+#EXTINF:-1  tvg-id="417" tvg-logo="" group-title="2 - Servidor 2",HBO+ H264
+http://lojamais.cyou:80/162154782/978753257/408451
+
+#EXTINF:-1  tvg-id="418" tvg-logo="" group-title="2 - Servidor 2",HBO+ HD
+http://lojamais.cyou:80/162154782/978753257/408450
+
+#EXTINF:-1  tvg-id="421" tvg-logo="" group-title="2 - Servidor 2",HGTV FHD
+http://lojamais.cyou:80/162154782/978753257/402625
+
+#EXTINF:-1  tvg-id="422" tvg-logo="" group-title="2 - Servidor 2",HGTV HD
+http://lojamais.cyou:80/162154782/978753257/141655
+
+#EXTINF:-1  tvg-id="423" tvg-logo="" group-title="2 - Servidor 2",ID - INVESTIGAÇAO DISCOVERY FHD
+http://lojamais.cyou:80/162154782/978753257/141435
+
+#EXTINF:-1  tvg-id="425" tvg-logo="" group-title="2 - Servidor 2",ISTV
+http://lojamais.cyou:80/162154782/978753257/1609903
+
+#EXTINF:-1  tvg-id="426" tvg-logo="" group-title="2 - Servidor 2",Jetsons - Webtv
+http://lojamais.cyou:80/162154782/978753257/1609860
+
+#EXTINF:-1  tvg-id="427" tvg-logo="" group-title="2 - Servidor 2",JOVEM PAN HD
+http://lojamais.cyou:80/162154782/978753257/404653
+
+#EXTINF:-1  tvg-id="428" tvg-logo="" group-title="2 - Servidor 2",JOVEN PAN HD¹
+http://lojamais.cyou:80/162154782/978753257/686957
+
+#EXTINF:-1  tvg-id="430" tvg-logo="" group-title="2 - Servidor 2",Kids Mais
+http://lojamais.cyou:80/162154782/978753257/1609859
+
+#EXTINF:-1  tvg-id="431" tvg-logo="" group-title="2 - Servidor 2",Loading - Web TV
+http://lojamais.cyou:80/162154782/978753257/1609858
+
+#EXTINF:-1  tvg-id="432" tvg-logo="" group-title="2 - Servidor 2",MAIS UM
+http://lojamais.cyou:80/162154782/978753257/1609880
+
+#EXTINF:-1  tvg-id="433" tvg-logo="" group-title="2 - Servidor 2",MASTER TV PR
+http://lojamais.cyou:80/162154782/978753257/1609935
+
+#EXTINF:-1  tvg-id="434" tvg-logo="" group-title="2 - Servidor 2",MTV HD
+http://lojamais.cyou:80/162154782/978753257/141575
+
+#EXTINF:-1  tvg-id="435" tvg-logo="" group-title="2 - Servidor 2",MULTISHOW HD
+http://lojamais.cyou:80/162154782/978753257/141577
+
+#EXTINF:-1  tvg-id="436" tvg-logo="" group-title="2 - Servidor 2",MULTISHOW HITS
+http://lojamais.cyou:80/162154782/978753257/141576
+
+#EXTINF:-1  tvg-id="438" tvg-logo="" group-title="2 - Servidor 2",MULTSHOW FHD
+http://lojamais.cyou:80/162154782/978753257/141588
+
+#EXTINF:-1  tvg-id="439" tvg-logo="" group-title="2 - Servidor 2",MUSIC BOX
+http://lojamais.cyou:80/162154782/978753257/685166
+
+#EXTINF:-1  tvg-id="440" tvg-logo="" group-title="2 - Servidor 2",NBA
+http://lojamais.cyou:80/162154782/978753257/549791
+
+#EXTINF:-1  tvg-id="441" tvg-logo="" group-title="2 - Servidor 2",NBA 2
+http://lojamais.cyou:80/162154782/978753257/550610
+
+#EXTINF:-1  tvg-id="442" tvg-logo="" group-title="2 - Servidor 2",NGT
+http://lojamais.cyou:80/162154782/978753257/1609901
+
+#EXTINF:-1  tvg-id="443" tvg-logo="" group-title="2 - Servidor 2",Nosso Futebol 01
+http://lojamais.cyou:80/162154782/978753257/1573830
+
+#EXTINF:-1  tvg-id="444" tvg-logo="" group-title="2 - Servidor 2",Nosso Futebol 02
+http://lojamais.cyou:80/162154782/978753257/1573831
+
+#EXTINF:-1  tvg-id="445" tvg-logo="" group-title="2 - Servidor 2",OFF FHD
+http://lojamais.cyou:80/162154782/978753257/141581
+
+#EXTINF:-1  tvg-id="446" tvg-logo="" group-title="2 - Servidor 2",OFF HD
+http://lojamais.cyou:80/162154782/978753257/141580
+
+#EXTINF:-1  tvg-id="447" tvg-logo="" group-title="2 - Servidor 2",Otaku Sign TV
+http://lojamais.cyou:80/162154782/978753257/1609882
+
+#EXTINF:-1  tvg-id="448" tvg-logo="" group-title="2 - Servidor 2",PARAMOUNT+1
+http://lojamais.cyou:80/162154782/978753257/686614
+
+#EXTINF:-1  tvg-id="449" tvg-logo="" group-title="2 - Servidor 2",PARAMOUNT+2
+http://lojamais.cyou:80/162154782/978753257/686615
+
+#EXTINF:-1  tvg-id="450" tvg-logo="" group-title="2 - Servidor 2",PARAMOUNT+3
+http://lojamais.cyou:80/162154782/978753257/1594157
+
+#EXTINF:-1  tvg-id="451" tvg-logo="" group-title="2 - Servidor 2",PARAMOUNT+4
+http://lojamais.cyou:80/162154782/978753257/1594158
+
+#EXTINF:-1  tvg-id="452" tvg-logo="" group-title="2 - Servidor 2",Paraná Turismo
+http://lojamais.cyou:80/162154782/978753257/1609871
+
+#EXTINF:-1  tvg-id="453" tvg-logo="" group-title="2 - Servidor 2",PlayTV
+http://lojamais.cyou:80/162154782/978753257/1609851
+
+#EXTINF:-1  tvg-id="454" tvg-logo="" group-title="2 - Servidor 2",PORTAL FOXMIX
+http://lojamais.cyou:80/162154782/978753257/1610017
+
+#EXTINF:-1  tvg-id="455" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 2 HD
+http://lojamais.cyou:80/162154782/978753257/141504
+
+#EXTINF:-1  tvg-id="457" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 2 SD¹
+http://lojamais.cyou:80/162154782/978753257/338393
+
+#EXTINF:-1  tvg-id="458" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 3 HD
+http://lojamais.cyou:80/162154782/978753257/386180
+
+#EXTINF:-1  tvg-id="460" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 4
+http://lojamais.cyou:80/162154782/978753257/404904
+
+#EXTINF:-1  tvg-id="461" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 4 HD
+http://lojamais.cyou:80/162154782/978753257/141508
+
+#EXTINF:-1  tvg-id="463" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 5 HD
+http://lojamais.cyou:80/162154782/978753257/141510
+
+#EXTINF:-1  tvg-id="465" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 6 HD
+http://lojamais.cyou:80/162154782/978753257/338405
+
+#EXTINF:-1  tvg-id="467" tvg-logo="" group-title="2 - Servidor 2",PREMIERE 7 HD
+http://lojamais.cyou:80/162154782/978753257/338408
+
+#EXTINF:-1  tvg-id="469" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBE HD²
+http://lojamais.cyou:80/162154782/978753257/263476
+
+#EXTINF:-1  tvg-id="470" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBES HD
+http://lojamais.cyou:80/162154782/978753257/141514
+
+#EXTINF:-1  tvg-id="471" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBES HD¹
+http://lojamais.cyou:80/162154782/978753257/380713
+
+#EXTINF:-1  tvg-id="473" tvg-logo="" group-title="2 - Servidor 2",PREMIERE CLUBES SD¹
+http://lojamais.cyou:80/162154782/978753257/338390
+
+#EXTINF:-1  tvg-id="474" tvg-logo="" group-title="2 - Servidor 2",PRIME BOX BRASIL
+http://lojamais.cyou:80/162154782/978753257/685167
+
+#EXTINF:-1  tvg-id="475" tvg-logo="" group-title="2 - Servidor 2",Prime Box Brasil FHD
+http://lojamais.cyou:80/162154782/978753257/408268
+
+#EXTINF:-1  tvg-id="476" tvg-logo="" group-title="2 - Servidor 2",Prime Box Brasil HD
+http://lojamais.cyou:80/162154782/978753257/408269
+
+#EXTINF:-1  tvg-id="478" tvg-logo="" group-title="2 - Servidor 2",Q TAL CHANNEL
+http://lojamais.cyou:80/162154782/978753257/1609962
+
+#EXTINF:-1  tvg-id="479" tvg-logo="" group-title="2 - Servidor 2",RADIO SEMEANDO O AMOR DE DEUS
+http://lojamais.cyou:80/162154782/978753257/380129
+
+#EXTINF:-1  tvg-id="483" tvg-logo="" group-title="2 - Servidor 2",RECORD NEWS HD
+http://lojamais.cyou:80/162154782/978753257/404639
+
+#EXTINF:-1  tvg-id="489" tvg-logo="" group-title="2 - Servidor 2",RECORD SP FHD
+http://lojamais.cyou:80/162154782/978753257/1390351
+
+#EXTINF:-1  tvg-id="490" tvg-logo="" group-title="2 - Servidor 2",RECORD SP HD
+http://lojamais.cyou:80/162154782/978753257/289009
+
+#EXTINF:-1  tvg-id="494" tvg-logo="" group-title="2 - Servidor 2",REDE BRASIL
+http://lojamais.cyou:80/162154782/978753257/283413
+
+#EXTINF:-1  tvg-id="495" tvg-logo="" group-title="2 - Servidor 2",Rede Brasil - TV Marajoara (PA)
+http://lojamais.cyou:80/162154782/978753257/1609883
+
+#EXTINF:-1  tvg-id="496" tvg-logo="" group-title="2 - Servidor 2",Rede Clone - WebTV
+http://lojamais.cyou:80/162154782/978753257/1609861
+
+#EXTINF:-1  tvg-id="497" tvg-logo="" group-title="2 - Servidor 2",REDE FAMILIA
+http://lojamais.cyou:80/162154782/978753257/148352
+
+#EXTINF:-1  tvg-id="498" tvg-logo="" group-title="2 - Servidor 2",REDE SPTV
+http://lojamais.cyou:80/162154782/978753257/1609972
+
+#EXTINF:-1  tvg-id="499" tvg-logo="" group-title="2 - Servidor 2",REDE TV HD
+http://lojamais.cyou:80/162154782/978753257/141393
+
+#EXTINF:-1  tvg-id="501" tvg-logo="" group-title="2 - Servidor 2",Rede Vida FHD²
+http://lojamais.cyou:80/162154782/978753257/266467
+
+#EXTINF:-1  tvg-id="503" tvg-logo="" group-title="2 - Servidor 2",RedeTV! TV Pantanal (MT)
+http://lojamais.cyou:80/162154782/978753257/1609849
+
+#EXTINF:-1  tvg-id="504" tvg-logo="" group-title="2 - Servidor 2",RedeTV! TV PR
+http://lojamais.cyou:80/162154782/978753257/1609846
+
+#EXTINF:-1  tvg-id="505" tvg-logo="" group-title="2 - Servidor 2",Retrô Cartoon
+http://lojamais.cyou:80/162154782/978753257/1609874
+
+#EXTINF:-1  tvg-id="506" tvg-logo="" group-title="2 - Servidor 2",RIT TV HD
+http://lojamais.cyou:80/162154782/978753257/222876
+
+#EXTINF:-1  tvg-id="507" tvg-logo="" group-title="2 - Servidor 2",RT en español
+http://lojamais.cyou:80/162154782/978753257/1609926
+
+#EXTINF:-1  tvg-id="508" tvg-logo="" group-title="2 - Servidor 2",RU TV
+http://lojamais.cyou:80/162154782/978753257/1610014
+
+#EXTINF:-1  tvg-id="530" tvg-logo="" group-title="2 - Servidor 2",SAO RAIMUNDO TV
+http://lojamais.cyou:80/162154782/978753257/1610000
+
+#EXTINF:-1  tvg-id="534" tvg-logo="" group-title="2 - Servidor 2",SBT FHD
+http://lojamais.cyou:80/162154782/978753257/407546
+
+#EXTINF:-1  tvg-id="539" tvg-logo="" group-title="2 - Servidor 2",SBT SP FHD
+http://lojamais.cyou:80/162154782/978753257/141366
+
+#EXTINF:-1  tvg-id="540" tvg-logo="" group-title="2 - Servidor 2",SBT SP HD
+http://lojamais.cyou:80/162154782/978753257/317804
+
+#EXTINF:-1  tvg-id="542" tvg-logo="" group-title="2 - Servidor 2",SERTAO TV
+http://lojamais.cyou:80/162154782/978753257/1609992
+
+#EXTINF:-1  tvg-id="543" tvg-logo="" group-title="2 - Servidor 2",SIC (apenas em Portugal)
+http://lojamais.cyou:80/162154782/978753257/1609918
+
+#EXTINF:-1  tvg-id="544" tvg-logo="" group-title="2 - Servidor 2",SPORTV 2 HD
+http://lojamais.cyou:80/162154782/978753257/141545
+
+#EXTINF:-1  tvg-id="546" tvg-logo="" group-title="2 - Servidor 2",SPORTV 3 HD
+http://lojamais.cyou:80/162154782/978753257/338416
+
+#EXTINF:-1  tvg-id="548" tvg-logo="" group-title="2 - Servidor 2",SPORTV HD
+http://lojamais.cyou:80/162154782/978753257/141549
+
+#EXTINF:-1  tvg-id="550" tvg-logo="" group-title="2 - Servidor 2",STUDIO TV
+http://lojamais.cyou:80/162154782/978753257/1609999
+
+#EXTINF:-1  tvg-id="551" tvg-logo="" group-title="2 - Servidor 2",SUPERCANAL
+http://lojamais.cyou:80/162154782/978753257/2036736
+
+#EXTINF:-1  tvg-id="552" tvg-logo="" group-title="2 - Servidor 2",TELECINE ACTION FHD
+http://lojamais.cyou:80/162154782/978753257/141479
+
+#EXTINF:-1  tvg-id="553" tvg-logo="" group-title="2 - Servidor 2",TELECINE ACTION HD
+http://lojamais.cyou:80/162154782/978753257/404929
+
+#EXTINF:-1  tvg-id="555" tvg-logo="" group-title="2 - Servidor 2",TELECINE CULT FHD
+http://lojamais.cyou:80/162154782/978753257/685179
+
+#EXTINF:-1  tvg-id="556" tvg-logo="" group-title="2 - Servidor 2",TELECINE CULT HD
+http://lojamais.cyou:80/162154782/978753257/141469
+
+#EXTINF:-1  tvg-id="558" tvg-logo="" group-title="2 - Servidor 2",TELECINE FUN FHD
+http://lojamais.cyou:80/162154782/978753257/141480
+
+#EXTINF:-1  tvg-id="559" tvg-logo="" group-title="2 - Servidor 2",TELECINE FUN HD
+http://lojamais.cyou:80/162154782/978753257/232601
+
+#EXTINF:-1  tvg-id="561" tvg-logo="" group-title="2 - Servidor 2",TELECINE PIPOCA FHD
+http://lojamais.cyou:80/162154782/978753257/337715
+
+#EXTINF:-1  tvg-id="562" tvg-logo="" group-title="2 - Servidor 2",TELECINE PIPOCA HD
+http://lojamais.cyou:80/162154782/978753257/337716
+
+#EXTINF:-1  tvg-id="564" tvg-logo="" group-title="2 - Servidor 2",TELECINE PREMIUM FHD
+http://lojamais.cyou:80/162154782/978753257/337714
+
+#EXTINF:-1  tvg-id="566" tvg-logo="" group-title="2 - Servidor 2",TELECINE PREMIUM HD
+http://lojamais.cyou:80/162154782/978753257/141475
+
+#EXTINF:-1  tvg-id="567" tvg-logo="" group-title="2 - Servidor 2",TELECINE PREMIUM HD
+http://lojamais.cyou:80/162154782/978753257/337713
+
+#EXTINF:-1  tvg-id="569" tvg-logo="" group-title="2 - Servidor 2",TELECINE TOUCH FHD
+http://lojamais.cyou:80/162154782/978753257/141483
+
+#EXTINF:-1  tvg-id="570" tvg-logo="" group-title="2 - Servidor 2",TELECINE TOUCH HD
+http://lojamais.cyou:80/162154782/978753257/337710
+
+#EXTINF:-1  tvg-id="572" tvg-logo="" group-title="2 - Servidor 2",Terra Viva
+http://lojamais.cyou:80/162154782/978753257/1609911
+
+#EXTINF:-1  tvg-id="573" tvg-logo="" group-title="2 - Servidor 2",TERRA VIVA HD
+http://lojamais.cyou:80/162154782/978753257/1610885
+
+#EXTINF:-1  tvg-id="574" tvg-logo="" group-title="2 - Servidor 2",The Retro Channel
+http://lojamais.cyou:80/162154782/978753257/1609929
+
+#EXTINF:-1  tvg-id="575" tvg-logo="" group-title="2 - Servidor 2",TRAVEL BOX BRASIL
+http://lojamais.cyou:80/162154782/978753257/685426
+
+#EXTINF:-1  tvg-id="576" tvg-logo="" group-title="2 - Servidor 2",TRAVEL BOX BRASIL HD
+http://lojamais.cyou:80/162154782/978753257/141579
+
+#EXTINF:-1  tvg-id="578" tvg-logo="" group-title="2 - Servidor 2",TV A7 CALDAS NOVAS
+http://lojamais.cyou:80/162154782/978753257/1609951
+
+#EXTINF:-1  tvg-id="579" tvg-logo="" group-title="2 - Servidor 2",TV ALTERNATIVA
+http://lojamais.cyou:80/162154782/978753257/1609947
+
+#EXTINF:-1  tvg-id="580" tvg-logo="" group-title="2 - Servidor 2",TV APARECIDA
+http://lojamais.cyou:80/162154782/978753257/141403
+
+#EXTINF:-1  tvg-id="581" tvg-logo="" group-title="2 - Servidor 2",TV Aracati
+http://lojamais.cyou:80/162154782/978753257/1609896
+
+#EXTINF:-1  tvg-id="582" tvg-logo="" group-title="2 - Servidor 2",TV Assembléia Maceió
+http://lojamais.cyou:80/162154782/978753257/1609933
+
+#EXTINF:-1  tvg-id="583" tvg-logo="" group-title="2 - Servidor 2",TV Birigui
+http://lojamais.cyou:80/162154782/978753257/1609897
+
+#EXTINF:-1  tvg-id="584" tvg-logo="" group-title="2 - Servidor 2",TV BOQUEIRAO
+http://lojamais.cyou:80/162154782/978753257/1609985
+
+#EXTINF:-1  tvg-id="585" tvg-logo="" group-title="2 - Servidor 2",TV Brasil  - Joinville
+http://lojamais.cyou:80/162154782/978753257/1609876
+
+#EXTINF:-1  tvg-id="586" tvg-logo="" group-title="2 - Servidor 2",TV Brusque (SC)
+http://lojamais.cyou:80/162154782/978753257/1609917
+
+#EXTINF:-1  tvg-id="587" tvg-logo="" group-title="2 - Servidor 2",TV CAMARA
+http://lojamais.cyou:80/162154782/978753257/268132
+
+#EXTINF:-1  tvg-id="588" tvg-logo="" group-title="2 - Servidor 2",TV CHROMA
+http://lojamais.cyou:80/162154782/978753257/1609940
+
+#EXTINF:-1  tvg-id="589" tvg-logo="" group-title="2 - Servidor 2",TV CLUBE WEB
+http://lojamais.cyou:80/162154782/978753257/1609971
+
+#EXTINF:-1  tvg-id="590" tvg-logo="" group-title="2 - Servidor 2",TV CN AGITOS
+http://lojamais.cyou:80/162154782/978753257/1610008
+
+#EXTINF:-1  tvg-id="591" tvg-logo="" group-title="2 - Servidor 2",TV COM MACEIÓ
+http://lojamais.cyou:80/162154782/978753257/1609932
+
+#EXTINF:-1  tvg-id="592" tvg-logo="" group-title="2 - Servidor 2",TV COM SANTOS
+http://lojamais.cyou:80/162154782/978753257/1609945
+
+#EXTINF:-1  tvg-id="593" tvg-logo="" group-title="2 - Servidor 2",TV CORDEIRO
+http://lojamais.cyou:80/162154782/978753257/1609957
+
+#EXTINF:-1  tvg-id="594" tvg-logo="" group-title="2 - Servidor 2",TV CULTURA FHD
+http://lojamais.cyou:80/162154782/978753257/141398
+
+#EXTINF:-1  tvg-id="595" tvg-logo="" group-title="2 - Servidor 2",TV CULTURA HD
+http://lojamais.cyou:80/162154782/978753257/141389
+
+#EXTINF:-1  tvg-id="597" tvg-logo="" group-title="2 - Servidor 2",TV DESTAQUE NACIONAL
+http://lojamais.cyou:80/162154782/978753257/1609987
+
+#EXTINF:-1  tvg-id="598" tvg-logo="" group-title="2 - Servidor 2",TV Diário do Sertão
+http://lojamais.cyou:80/162154782/978753257/1609902
+
+#EXTINF:-1  tvg-id="600" tvg-logo="" group-title="2 - Servidor 2",TV Evangelizar SD¹
+http://lojamais.cyou:80/162154782/978753257/266475
+
+#EXTINF:-1  tvg-id="601" tvg-logo="" group-title="2 - Servidor 2",TV GALLO
+http://lojamais.cyou:80/162154782/978753257/1609978
+
+#EXTINF:-1  tvg-id="602" tvg-logo="" group-title="2 - Servidor 2",TV Gallo - WebTV
+http://lojamais.cyou:80/162154782/978753257/1609913
+
+#EXTINF:-1  tvg-id="603" tvg-logo="" group-title="2 - Servidor 2",TV GAZETA
+http://lojamais.cyou:80/162154782/978753257/268931
+
+#EXTINF:-1  tvg-id="604" tvg-logo="" group-title="2 - Servidor 2",TV GRAO PARA
+http://lojamais.cyou:80/162154782/978753257/1609948
+
+#EXTINF:-1  tvg-id="605" tvg-logo="" group-title="2 - Servidor 2",TV Japi
+http://lojamais.cyou:80/162154782/978753257/1609908
+
+#EXTINF:-1  tvg-id="606" tvg-logo="" group-title="2 - Servidor 2",TV LIBERDADE
+http://lojamais.cyou:80/162154782/978753257/1609954
+
+#EXTINF:-1  tvg-id="607" tvg-logo="" group-title="2 - Servidor 2",TV Maceió (AL)
+http://lojamais.cyou:80/162154782/978753257/1609909
+
+#EXTINF:-1  tvg-id="608" tvg-logo="" group-title="2 - Servidor 2",TV Metrópole
+http://lojamais.cyou:80/162154782/978753257/1609893
+
+#EXTINF:-1  tvg-id="609" tvg-logo="" group-title="2 - Servidor 2",TV Novo Tempo FHD
+http://lojamais.cyou:80/162154782/978753257/266477
+
+#EXTINF:-1  tvg-id="610" tvg-logo="" group-title="2 - Servidor 2",TV Novo Tempo HD
+http://lojamais.cyou:80/162154782/978753257/266478
+
+#EXTINF:-1  tvg-id="612" tvg-logo="" group-title="2 - Servidor 2",TV PAI ETERNO HD
+http://lojamais.cyou:80/162154782/978753257/141405
+
+#EXTINF:-1  tvg-id="613" tvg-logo="" group-title="2 - Servidor 2",TV Pai Eterno¹
+http://lojamais.cyou:80/162154782/978753257/268339
+
+#EXTINF:-1  tvg-id="614" tvg-logo="" group-title="2 - Servidor 2",TV PASSO FUNDO
+http://lojamais.cyou:80/162154782/978753257/1609970
+
+#EXTINF:-1  tvg-id="615" tvg-logo="" group-title="2 - Servidor 2",TV RIO GRANDE
+http://lojamais.cyou:80/162154782/978753257/1609964
+
+#EXTINF:-1  tvg-id="616" tvg-logo="" group-title="2 - Servidor 2",TV RIO MADEIRA
+http://lojamais.cyou:80/162154782/978753257/1609981
+
+#EXTINF:-1  tvg-id="617" tvg-logo="" group-title="2 - Servidor 2",TV Santa Cecília (SP)
+http://lojamais.cyou:80/162154782/978753257/1609914
+
+#EXTINF:-1  tvg-id="618" tvg-logo="" group-title="2 - Servidor 2",TV SDB
+http://lojamais.cyou:80/162154782/978753257/1609938
+
+#EXTINF:-1  tvg-id="619" tvg-logo="" group-title="2 - Servidor 2",TV SERIES 1 AS PANTERAS
+http://lojamais.cyou:80/162154782/978753257/1609950
+
+#EXTINF:-1  tvg-id="620" tvg-logo="" group-title="2 - Servidor 2",TV SETE LAGOAS
+http://lojamais.cyou:80/162154782/978753257/1609943
+
+#EXTINF:-1  tvg-id="621" tvg-logo="" group-title="2 - Servidor 2",TV SUL BAHIA
+http://lojamais.cyou:80/162154782/978753257/1609952
+
+#EXTINF:-1  tvg-id="622" tvg-logo="" group-title="2 - Servidor 2",TV TEM S. J. RIO PRETO HD
+http://lojamais.cyou:80/162154782/978753257/1824512
+
+#EXTINF:-1  tvg-id="623" tvg-logo="" group-title="2 - Servidor 2",TV VICOSA
+http://lojamais.cyou:80/162154782/978753257/1609941
+
+#EXTINF:-1  tvg-id="627" tvg-logo="" group-title="2 - Servidor 2",Via Morena
+http://lojamais.cyou:80/162154782/978753257/1609894
+
+#EXTINF:-1  tvg-id="629" tvg-logo="" group-title="2 - Servidor 2",VIVA FHD
+http://lojamais.cyou:80/162154782/978753257/392212
+
+#EXTINF:-1  tvg-id="630" tvg-logo="" group-title="2 - Servidor 2",VIVA HD
+http://lojamais.cyou:80/162154782/978753257/141586
+
+#EXTINF:-1  tvg-id="632" tvg-logo="" group-title="2 - Servidor 2",VV8 TV
+http://lojamais.cyou:80/162154782/978753257/1609955
+
+#EXTINF:-1  tvg-id="633" tvg-logo="" group-title="2 - Servidor 2",WEB TV AGUA BOA
+http://lojamais.cyou:80/162154782/978753257/1609966
+
+#EXTINF:-1  tvg-id="634" tvg-logo="" group-title="2 - Servidor 2",WOOHOO FHD
+http://lojamais.cyou:80/162154782/978753257/338425
+
+#EXTINF:-1  tvg-id="635" tvg-logo="" group-title="2 - Servidor 2",WOOHOO HD
+http://lojamais.cyou:80/162154782/978753257/141623
+
+#EXTINF:-1  tvg-id="637" tvg-logo="" group-title="2 - Servidor 2",Rede Super
+http://lojamais.cyou:80/162154782/978753257/3045217
+
+#EXTINF:-1  tvg-id="640" tvg-logo="" group-title="2 - Servidor 2",ANIMAL PLANET FHD
+http://lojamais.cyou:80/446995713/137514716/141663
+
+#EXTINF:-1  tvg-id="641" tvg-logo="" group-title="2 - Servidor 2",ANIMAL PLANET HD
+http://lojamais.cyou:80/446995713/137514716/141635
+
+#EXTINF:-1  tvg-id="643" tvg-logo="" group-title="2 - Servidor 2",AWTV
+http://lojamais.cyou:80/446995713/137514716/1609875
+
+#EXTINF:-1  tvg-id="646" tvg-logo="" group-title="2 - Servidor 2",BAND FHD
+http://lojamais.cyou:80/446995713/137514716/141395
+
+#EXTINF:-1  tvg-id="650" tvg-logo="" group-title="2 - Servidor 2",BAND RJ FHD
+http://lojamais.cyou:80/446995713/137514716/410361
+
+#EXTINF:-1  tvg-id="654" tvg-logo="" group-title="2 - Servidor 2",BAND SP FHD
+http://lojamais.cyou:80/446995713/137514716/292157
+
+#EXTINF:-1  tvg-id="655" tvg-logo="" group-title="2 - Servidor 2",BAND SP HD
+http://lojamais.cyou:80/446995713/137514716/251998
+
+#EXTINF:-1  tvg-id="657" tvg-logo="" group-title="2 - Servidor 2",BAND SPORTS FHD
+http://lojamais.cyou:80/446995713/137514716/404915
+
+#EXTINF:-1  tvg-id="658" tvg-logo="" group-title="2 - Servidor 2",BAND SPORTS HD
+http://lojamais.cyou:80/446995713/137514716/404914
+
+#EXTINF:-1  tvg-id="660" tvg-logo="" group-title="2 - Servidor 2",BEM TV
+http://lojamais.cyou:80/446995713/137514716/1609946
+
+#EXTINF:-1  tvg-id="661" tvg-logo="" group-title="2 - Servidor 2",BLITS TV
+http://lojamais.cyou:80/446995713/137514716/1609963
+
+#EXTINF:-1  tvg-id="662" tvg-logo="" group-title="2 - Servidor 2",Canal 29 - WebTV
+http://lojamais.cyou:80/446995713/137514716/1609904
+
+#EXTINF:-1  tvg-id="664" tvg-logo="" group-title="2 - Servidor 2",CANAL DO BOI HD
+http://lojamais.cyou:80/446995713/137514716/1607915
+
+#EXTINF:-1  tvg-id="665" tvg-logo="" group-title="2 - Servidor 2",Canal Educação
+http://lojamais.cyou:80/446995713/137514716/1609863
+
+#EXTINF:-1  tvg-id="666" tvg-logo="" group-title="2 - Servidor 2",Canal Gov
+http://lojamais.cyou:80/446995713/137514716/1609862
+
+#EXTINF:-1  tvg-id="667" tvg-logo="" group-title="2 - Servidor 2",Canal Rural HD
+http://lojamais.cyou:80/446995713/137514716/1378919
+
+#EXTINF:-1  tvg-id="669" tvg-logo="" group-title="2 - Servidor 2",Central TV
+http://lojamais.cyou:80/446995713/137514716/1609890
+
+#EXTINF:-1  tvg-id="670" tvg-logo="" group-title="2 - Servidor 2",CLASSIQUE TV
+http://lojamais.cyou:80/446995713/137514716/1609959
+
+#EXTINF:-1  tvg-id="671" tvg-logo="" group-title="2 - Servidor 2",COMBATE FHD
+http://lojamais.cyou:80/446995713/137514716/285996
+
+#EXTINF:-1  tvg-id="672" tvg-logo="" group-title="2 - Servidor 2",COMBATE HD
+http://lojamais.cyou:80/446995713/137514716/404916
+
+#EXTINF:-1  tvg-id="674" tvg-logo="" group-title="2 - Servidor 2",CONEXAO TV
+http://lojamais.cyou:80/446995713/137514716/1609984
+
+#EXTINF:-1  tvg-id="675" tvg-logo="" group-title="2 - Servidor 2",CURTA! HD
+http://lojamais.cyou:80/446995713/137514716/141637
+
+#EXTINF:-1  tvg-id="677" tvg-logo="" group-title="2 - Servidor 2",DarkFlix HD
+http://lojamais.cyou:80/446995713/137514716/1609877
+
+#EXTINF:-1  tvg-id="678" tvg-logo="" group-title="2 - Servidor 2",Deutsche Welle
+http://lojamais.cyou:80/446995713/137514716/1609921
+
+#EXTINF:-1  tvg-id="679" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY CHANNEL FHD
+http://lojamais.cyou:80/446995713/137514716/141668
+
+#EXTINF:-1  tvg-id="680" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY CHANNEL HD
+http://lojamais.cyou:80/446995713/137514716/141639
+
+#EXTINF:-1  tvg-id="682" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY HOME & HEALTH FHD
+http://lojamais.cyou:80/446995713/137514716/141669
+
+#EXTINF:-1  tvg-id="683" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY HOME & HEALTH HD
+http://lojamais.cyou:80/446995713/137514716/141641
+
+#EXTINF:-1  tvg-id="685" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY SCIENCE FHD
+http://lojamais.cyou:80/446995713/137514716/403771
+
+#EXTINF:-1  tvg-id="686" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY SCIENCE HD
+http://lojamais.cyou:80/446995713/137514716/141643
+
+#EXTINF:-1  tvg-id="688" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY THEATER HD
+http://lojamais.cyou:80/446995713/137514716/141645
+
+#EXTINF:-1  tvg-id="690" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY THEATHER FHD
+http://lojamais.cyou:80/446995713/137514716/141667
+
+#EXTINF:-1  tvg-id="691" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TLC FHD
+http://lojamais.cyou:80/446995713/137514716/387055
+
+#EXTINF:-1  tvg-id="693" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TLC HD
+http://lojamais.cyou:80/446995713/137514716/141418
+
+#EXTINF:-1  tvg-id="695" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TURBO FHD
+http://lojamais.cyou:80/446995713/137514716/141664
+
+#EXTINF:-1  tvg-id="696" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY TURBO HD
+http://lojamais.cyou:80/446995713/137514716/141647
+
+#EXTINF:-1  tvg-id="698" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY WORLD FHD
+http://lojamais.cyou:80/446995713/137514716/403768
+
+#EXTINF:-1  tvg-id="700" tvg-logo="" group-title="2 - Servidor 2",DISCOVERY WORLD HD
+http://lojamais.cyou:80/446995713/137514716/141649
+
+#EXTINF:-1  tvg-id="702" tvg-logo="" group-title="2 - Servidor 2",E! HD
+http://lojamais.cyou:80/446995713/137514716/141651
+
+#EXTINF:-1  tvg-id="704" tvg-logo="" group-title="2 - Servidor 2",ELYTV
+http://lojamais.cyou:80/446995713/137514716/1609965
+
+#EXTINF:-1  tvg-id="706" tvg-logo="" group-title="2 - Servidor 2",ESPN 2 HD
+http://lojamais.cyou:80/446995713/137514716/404921
+
+#EXTINF:-1  tvg-id="709" tvg-logo="" group-title="2 - Servidor 2",ESPN 3 HD
+http://lojamais.cyou:80/446995713/137514716/338056
+
+#EXTINF:-1  tvg-id="712" tvg-logo="" group-title="2 - Servidor 2",ESPN 4 HD
+http://lojamais.cyou:80/446995713/137514716/404924
+
+#EXTINF:-1  tvg-id="714" tvg-logo="" group-title="2 - Servidor 2",ESPN EXTRA HD
+http://lojamais.cyou:80/446995713/137514716/404925
+
+#EXTINF:-1  tvg-id="716" tvg-logo="" group-title="2 - Servidor 2",ESPN HD
+http://lojamais.cyou:80/446995713/137514716/404919
+
+#EXTINF:-1  tvg-id="718" tvg-logo="" group-title="2 - Servidor 2",FISH TV FHD
+http://lojamais.cyou:80/446995713/137514716/392226
+
+#EXTINF:-1  tvg-id="720" tvg-logo="" group-title="2 - Servidor 2",FISH TV HD
+http://lojamais.cyou:80/446995713/137514716/141567
+
+#EXTINF:-1  tvg-id="722" tvg-logo="" group-title="2 - Servidor 2",FonteTV (GO)
+http://lojamais.cyou:80/446995713/137514716/1609892
+
+#EXTINF:-1  tvg-id="723" tvg-logo="" group-title="2 - Servidor 2",FUTURA HD
+http://lojamais.cyou:80/446995713/137514716/141391
+
+#EXTINF:-1  tvg-id="777" tvg-logo="" group-title="2 - Servidor 2",GLOBO RJ FHD
+http://lojamais.cyou:80/446995713/137514716/549768
+
+#EXTINF:-1  tvg-id="778" tvg-logo="" group-title="2 - Servidor 2",GLOBO RJ HD
+http://lojamais.cyou:80/446995713/137514716/336850
+
+#EXTINF:-1  tvg-id="792" tvg-logo="" group-title="2 - Servidor 2",GLOBO SP FHD
+http://lojamais.cyou:80/446995713/137514716/356694
+
+#EXTINF:-1  tvg-id="793" tvg-logo="" group-title="2 - Servidor 2",GLOBO SP HD
+http://lojamais.cyou:80/446995713/137514716/141338
+
+#EXTINF:-1  tvg-id="810" tvg-logo="" group-title="2 - Servidor 2",Gospel Cartoon
+http://lojamais.cyou:80/446995713/137514716/1609886
+
+#EXTINF:-1  tvg-id="811" tvg-logo="" group-title="2 - Servidor 2",Gospel Movie TV
+http://lojamais.cyou:80/446995713/137514716/1609887
+
+#EXTINF:-1  tvg-id="812" tvg-logo="" group-title="2 - Servidor 2",Gospel Music
+http://lojamais.cyou:80/446995713/137514716/1609888
+
+#EXTINF:-1  tvg-id="813" tvg-logo="" group-title="2 - Servidor 2",GuiaTV
+http://lojamais.cyou:80/446995713/137514716/1609872
+
+#EXTINF:-1  tvg-id="814" tvg-logo="" group-title="2 - Servidor 2",H2 FHD
+http://lojamais.cyou:80/446995713/137514716/380159
+
+#EXTINF:-1  tvg-id="815" tvg-logo="" group-title="2 - Servidor 2",H2 HD
+http://lojamais.cyou:80/446995713/137514716/141653
+
+#EXTINF:-1  tvg-id="817" tvg-logo="" group-title="2 - Servidor 2",HGTV FHD
+http://lojamais.cyou:80/446995713/137514716/402625
+
+#EXTINF:-1  tvg-id="818" tvg-logo="" group-title="2 - Servidor 2",HGTV HD
+http://lojamais.cyou:80/446995713/137514716/141655
+
+#EXTINF:-1  tvg-id="821" tvg-logo="" group-title="2 - Servidor 2",HISTORY FHD
+http://lojamais.cyou:80/446995713/137514716/141671
+
+#EXTINF:-1  tvg-id="822" tvg-logo="" group-title="2 - Servidor 2",HISTORY HD
+http://lojamais.cyou:80/446995713/137514716/141657
+
+#EXTINF:-1  tvg-id="823" tvg-logo="" group-title="2 - Servidor 2",ID - INVESTIGAÇAO DISCOVERY FHD
+http://lojamais.cyou:80/446995713/137514716/141435
+
+#EXTINF:-1  tvg-id="825" tvg-logo="" group-title="2 - Servidor 2",ISTV
+http://lojamais.cyou:80/446995713/137514716/1609903
+
+#EXTINF:-1  tvg-id="826" tvg-logo="" group-title="2 - Servidor 2",Jetsons - Webtv
+http://lojamais.cyou:80/446995713/137514716/1609860
+
+#EXTINF:-1  tvg-id="827" tvg-logo="" group-title="2 - Servidor 2",Kids Mais
+http://lojamais.cyou:80/446995713/137514716/1609859
+
+#EXTINF:-1  tvg-id="828" tvg-logo="" group-title="2 - Servidor 2",Loading - Web TV
+http://lojamais.cyou:80/446995713/137514716/1609858
+
+#EXTINF:-1  tvg-id="829" tvg-logo="" group-title="2 - Servidor 2",MAIS UM
+http://lojamais.cyou:80/446995713/137514716/1609880
+
+#EXTINF:-1  tvg-id="830" tvg-logo="" group-title="2 - Servidor 2",MASTER TV PR
+http://lojamais.cyou:80/446995713/137514716/1609935
+
+#EXTINF:-1  tvg-id="831" tvg-logo="" group-title="2 - Servidor 2",NGT
+http://lojamais.cyou:80/446995713/137514716/1609901
+
+#EXTINF:-1  tvg-id="832" tvg-logo="" group-title="2 - Servidor 2",OFF FHD
+http://lojamais.cyou:80/446995713/137514716/141581
+
+#EXTINF:-1  tvg-id="833" tvg-logo="" group-title="2 - Servidor 2",OFF HD
+http://lojamais.cyou:80/446995713/137514716/141580
+
+#EXTINF:-1  tvg-id="834" tvg-logo="" group-title="2 - Servidor 2",Otaku Sign TV
+http://lojamais.cyou:80/446995713/137514716/1609882
+
+#EXTINF:-1  tvg-id="835" tvg-logo="" group-title="2 - Servidor 2",Paraná Turismo
+http://lojamais.cyou:80/446995713/137514716/1609871
+
+#EXTINF:-1  tvg-id="836" tvg-logo="" group-title="2 - Servidor 2",PlayTV
+http://lojamais.cyou:80/446995713/137514716/1609851
+
+#EXTINF:-1  tvg-id="837" tvg-logo="" group-title="2 - Servidor 2",PORTAL FOXMIX
+http://lojamais.cyou:80/446995713/137514716/1610017
+
+#EXTINF:-1  tvg-id="838" tvg-logo="" group-title="2 - Servidor 2",Q TAL CHANNEL
+http://lojamais.cyou:80/446995713/137514716/1609962
+
+#EXTINF:-1  tvg-id="839" tvg-logo="" group-title="2 - Servidor 2",REDE BRASIL
+http://lojamais.cyou:80/446995713/137514716/283413
+
+#EXTINF:-1  tvg-id="840" tvg-logo="" group-title="2 - Servidor 2",Rede Brasil - TV Marajoara (PA)
+http://lojamais.cyou:80/446995713/137514716/1609883
+
+#EXTINF:-1  tvg-id="841" tvg-logo="" group-title="2 - Servidor 2",Rede Clone - WebTV
+http://lojamais.cyou:80/446995713/137514716/1609861
+
+#EXTINF:-1  tvg-id="842" tvg-logo="" group-title="2 - Servidor 2",REDE FAMILIA
+http://lojamais.cyou:80/446995713/137514716/148352
+
+#EXTINF:-1  tvg-id="843" tvg-logo="" group-title="2 - Servidor 2",REDE SPTV
+http://lojamais.cyou:80/446995713/137514716/1609972
+
+#EXTINF:-1  tvg-id="844" tvg-logo="" group-title="2 - Servidor 2",REDE TV HD
+http://lojamais.cyou:80/446995713/137514716/141393
+
+#EXTINF:-1  tvg-id="846" tvg-logo="" group-title="2 - Servidor 2",RedeTV! TV Pantanal (MT)
+http://lojamais.cyou:80/446995713/137514716/1609849
+
+#EXTINF:-1  tvg-id="847" tvg-logo="" group-title="2 - Servidor 2",RedeTV! TV PR
+http://lojamais.cyou:80/446995713/137514716/1609846
+
+#EXTINF:-1  tvg-id="848" tvg-logo="" group-title="2 - Servidor 2",Retrô Cartoon
+http://lojamais.cyou:80/446995713/137514716/1609874
+
+#EXTINF:-1  tvg-id="849" tvg-logo="" group-title="2 - Servidor 2",RT en español
+http://lojamais.cyou:80/446995713/137514716/1609926
+
+#EXTINF:-1  tvg-id="850" tvg-logo="" group-title="2 - Servidor 2",RU TV
+http://lojamais.cyou:80/446995713/137514716/1610014
+
+#EXTINF:-1  tvg-id="851" tvg-logo="" group-title="2 - Servidor 2",SAO RAIMUNDO TV
+http://lojamais.cyou:80/446995713/137514716/1610000
+
+#EXTINF:-1  tvg-id="852" tvg-logo="" group-title="2 - Servidor 2",SERTAO TV
+http://lojamais.cyou:80/446995713/137514716/1609992
+
+#EXTINF:-1  tvg-id="853" tvg-logo="" group-title="2 - Servidor 2",SIC (apenas em Portugal)
+http://lojamais.cyou:80/446995713/137514716/1609918
+
+#EXTINF:-1  tvg-id="854" tvg-logo="" group-title="2 - Servidor 2",STUDIO TV
+http://lojamais.cyou:80/446995713/137514716/1609999
+
+#EXTINF:-1  tvg-id="855" tvg-logo="" group-title="2 - Servidor 2",Terra Viva
+http://lojamais.cyou:80/446995713/137514716/1609911
+
+#EXTINF:-1  tvg-id="856" tvg-logo="" group-title="2 - Servidor 2",TERRA VIVA HD
+http://lojamais.cyou:80/446995713/137514716/1610885
+
+#EXTINF:-1  tvg-id="857" tvg-logo="" group-title="2 - Servidor 2",The Retro Channel
+http://lojamais.cyou:80/446995713/137514716/1609929
+
+#EXTINF:-1  tvg-id="858" tvg-logo="" group-title="2 - Servidor 2",TV A7 CALDAS NOVAS
+http://lojamais.cyou:80/446995713/137514716/1609951
+
+#EXTINF:-1  tvg-id="859" tvg-logo="" group-title="2 - Servidor 2",TV ALTERNATIVA
+http://lojamais.cyou:80/446995713/137514716/1609947
+
+#EXTINF:-1  tvg-id="860" tvg-logo="" group-title="2 - Servidor 2",TV Aracati
+http://lojamais.cyou:80/446995713/137514716/1609896
+
+#EXTINF:-1  tvg-id="861" tvg-logo="" group-title="2 - Servidor 2",TV Assembléia Maceió
+http://lojamais.cyou:80/446995713/137514716/1609933
+
+#EXTINF:-1  tvg-id="862" tvg-logo="" group-title="2 - Servidor 2",TV Birigui
+http://lojamais.cyou:80/446995713/137514716/1609897
+
+#EXTINF:-1  tvg-id="863" tvg-logo="" group-title="2 - Servidor 2",TV BOQUEIRAO
+http://lojamais.cyou:80/446995713/137514716/1609985
+
+#EXTINF:-1  tvg-id="864" tvg-logo="" group-title="2 - Servidor 2",TV Brasil  - Joinville
+http://lojamais.cyou:80/446995713/137514716/1609876
+
+#EXTINF:-1  tvg-id="865" tvg-logo="" group-title="2 - Servidor 2",TV Brusque (SC)
+http://lojamais.cyou:80/446995713/137514716/1609917
+
+#EXTINF:-1  tvg-id="866" tvg-logo="" group-title="2 - Servidor 2",TV CAMARA
+http://lojamais.cyou:80/446995713/137514716/268132
+
+#EXTINF:-1  tvg-id="867" tvg-logo="" group-title="2 - Servidor 2",TV CHROMA
+http://lojamais.cyou:80/446995713/137514716/1609940
+
+#EXTINF:-1  tvg-id="868" tvg-logo="" group-title="2 - Servidor 2",TV CLUBE WEB
+http://lojamais.cyou:80/446995713/137514716/1609971
+
+#EXTINF:-1  tvg-id="869" tvg-logo="" group-title="2 - Servidor 2",TV CN AGITOS
+http://lojamais.cyou:80/446995713/137514716/1610008
+
+#EXTINF:-1  tvg-id="870" tvg-logo="" group-title="2 - Servidor 2",TV COM MACEIÓ
+http://lojamais.cyou:80/446995713/137514716/1609932
+
+#EXTINF:-1  tvg-id="871" tvg-logo="" group-title="2 - Servidor 2",TV COM SANTOS
+http://lojamais.cyou:80/446995713/137514716/1609945
+
+#EXTINF:-1  tvg-id="872" tvg-logo="" group-title="2 - Servidor 2",TV CORDEIRO
+http://lojamais.cyou:80/446995713/137514716/1609957
+
+#EXTINF:-1  tvg-id="873" tvg-logo="" group-title="2 - Servidor 2",TV CULTURA FHD
+http://lojamais.cyou:80/446995713/137514716/141398
+
+#EXTINF:-1  tvg-id="874" tvg-logo="" group-title="2 - Servidor 2",TV CULTURA HD
+http://lojamais.cyou:80/446995713/137514716/141389
+
+#EXTINF:-1  tvg-id="876" tvg-logo="" group-title="2 - Servidor 2",TV DESTAQUE NACIONAL
+http://lojamais.cyou:80/446995713/137514716/1609987
+
+#EXTINF:-1  tvg-id="877" tvg-logo="" group-title="2 - Servidor 2",TV Diário do Sertão
+http://lojamais.cyou:80/446995713/137514716/1609902
+
+#EXTINF:-1  tvg-id="878" tvg-logo="" group-title="2 - Servidor 2",TV GALLO
+http://lojamais.cyou:80/446995713/137514716/1609978
+
+#EXTINF:-1  tvg-id="879" tvg-logo="" group-title="2 - Servidor 2",TV Gallo - WebTV
+http://lojamais.cyou:80/446995713/137514716/1609913
+
+#EXTINF:-1  tvg-id="880" tvg-logo="" group-title="2 - Servidor 2",TV GAZETA
+http://lojamais.cyou:80/446995713/137514716/268931
+
+#EXTINF:-1  tvg-id="881" tvg-logo="" group-title="2 - Servidor 2",TV GRAO PARA
+http://lojamais.cyou:80/446995713/137514716/1609948
+
+#EXTINF:-1  tvg-id="882" tvg-logo="" group-title="2 - Servidor 2",TV Japi
+http://lojamais.cyou:80/446995713/137514716/1609908
+
+#EXTINF:-1  tvg-id="883" tvg-logo="" group-title="2 - Servidor 2",TV LIBERDADE
+http://lojamais.cyou:80/446995713/137514716/1609954
+
+#EXTINF:-1  tvg-id="884" tvg-logo="" group-title="2 - Servidor 2",TV Maceió (AL)
+http://lojamais.cyou:80/446995713/137514716/1609909
+
+#EXTINF:-1  tvg-id="885" tvg-logo="" group-title="2 - Servidor 2",TV Metrópole
+http://lojamais.cyou:80/446995713/137514716/1609893
+
+#EXTINF:-1  tvg-id="886" tvg-logo="" group-title="2 - Servidor 2",TV PASSO FUNDO
+http://lojamais.cyou:80/446995713/137514716/1609970
+
+#EXTINF:-1  tvg-id="887" tvg-logo="" group-title="2 - Servidor 2",TV RIO GRANDE
+http://lojamais.cyou:80/446995713/137514716/1609964
+
+#EXTINF:-1  tvg-id="888" tvg-logo="" group-title="2 - Servidor 2",TV RIO MADEIRA
+http://lojamais.cyou:80/446995713/137514716/1609981
+
+#EXTINF:-1  tvg-id="889" tvg-logo="" group-title="2 - Servidor 2",TV Santa Cecília (SP)
+http://lojamais.cyou:80/446995713/137514716/1609914
+
+#EXTINF:-1  tvg-id="890" tvg-logo="" group-title="2 - Servidor 2",TV SDB
+http://lojamais.cyou:80/446995713/137514716/1609938
+
+#EXTINF:-1  tvg-id="891" tvg-logo="" group-title="2 - Servidor 2",TV SERIES 1 AS PANTERAS
+http://lojamais.cyou:80/446995713/137514716/1609950
+
+#EXTINF:-1  tvg-id="892" tvg-logo="" group-title="2 - Servidor 2",TV SETE LAGOAS
+http://lojamais.cyou:80/446995713/137514716/1609943
+
+#EXTINF:-1  tvg-id="893" tvg-logo="" group-title="2 - Servidor 2",TV SUL BAHIA
+http://lojamais.cyou:80/446995713/137514716/1609952
+
+#EXTINF:-1  tvg-id="894" tvg-logo="" group-title="2 - Servidor 2",TV TEM S. J. RIO PRETO HD
+http://lojamais.cyou:80/446995713/137514716/1824512
+
+#EXTINF:-1  tvg-id="895" tvg-logo="" group-title="2 - Servidor 2",TV VICOSA
+http://lojamais.cyou:80/446995713/137514716/1609941
+
+#EXTINF:-1  tvg-id="896" tvg-logo="" group-title="2 - Servidor 2",Via Morena
+http://lojamais.cyou:80/446995713/137514716/1609894
+
+#EXTINF:-1  tvg-id="897" tvg-logo="" group-title="2 - Servidor 2",VV8 TV
+http://lojamais.cyou:80/446995713/137514716/1609955
+
+#EXTINF:-1  tvg-id="898" tvg-logo="" group-title="2 - Servidor 2",WEB TV AGUA BOA
+http://lojamais.cyou:80/446995713/137514716/1609966
+
+#EXTINF:-1  tvg-id="899" tvg-logo="" group-title="2 - Servidor 2",WOOHOO FHD
+http://lojamais.cyou:80/446995713/137514716/338425
+
+#EXTINF:-1  tvg-id="900" tvg-logo="" group-title="2 - Servidor 2",WOOHOO HD
+http://lojamais.cyou:80/446995713/137514716/141623
+
+#EXTINF:-1  tvg-id="967" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-clubes-hd.png" group-title="3 - Servidor 3",PREMIERE 01 CLUBES FHD
+http://longitudenow.site:80/23876546/64567832/5365026
+
+#EXTINF:-1  tvg-id="968" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-2.png" group-title="3 - Servidor 3",PREMIERE 02 FHD
+http://longitudenow.site:80/23876546/64567832/631354
+
+#EXTINF:-1  tvg-id="969" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-8.png" group-title="3 - Servidor 3",PREMIERE 08 FHD
+http://longitudenow.site:80/23876546/64567832/4476103
+
+#EXTINF:-1  tvg-id="970" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-3.png" group-title="3 - Servidor 3",PREMIERE 03 FHD
+http://longitudenow.site:80/23876546/64567832/631358
+
+#EXTINF:-1  tvg-id="971" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-4.png" group-title="3 - Servidor 3",PREMIERE 04 FHD
+http://longitudenow.site:80/23876546/64567832/631362
+
+#EXTINF:-1  tvg-id="972" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-5.png" group-title="3 - Servidor 3",PREMIERE 05 FHD
+http://longitudenow.site:80/23876546/64567832/631365
+
+#EXTINF:-1  tvg-id="973" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-6.png" group-title="3 - Servidor 3",PREMIERE 06 FHD
+http://longitudenow.site:80/23876546/64567832/631368
+
+#EXTINF:-1  tvg-id="974" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-7.png" group-title="3 - Servidor 3",PREMIERE 07 FHD
+http://longitudenow.site:80/23876546/64567832/631371
+
+#EXTINF:-1  tvg-id="975" tvg-logo="http://smartvtcl.site:8080/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="3 - Servidor 3",COMBATE FHD
+http://longitudenow.site:80/23876546/64567832/631019
+
+#EXTINF:-1  tvg-id="982" tvg-logo="http://smartvtcl.site:8080/images/af13b4f2c53ef4a37d25164de583abae.jpg" group-title="3 - Servidor 3",BAND NEWS FHD
+http://longitudenow.site:80/23876546/64567832/3682360
+
+#EXTINF:-1  tvg-id="983" tvg-logo="http://smartvtcl.site:8080/images/d40af4bdb4100f4b896562d0f8868db1.jpg" group-title="3 - Servidor 3",CNN BRASIL FHD
+http://longitudenow.site:80/23876546/64567832/3682369
+
+#EXTINF:-1  tvg-id="984" tvg-logo="http://smartvtcl.site:8080/images/fff15b3a1642fbfbc36d061e087814dc.jpg" group-title="3 - Servidor 3",GLOBO NEWS FHD
+http://longitudenow.site:80/23876546/64567832/3682363
+
+#EXTINF:-1  tvg-id="985" tvg-logo="http://smartvtcl.site:8080/images/e9d1106bbda6c8c991747095bcafbc0a.png" group-title="3 - Servidor 3",JOVEM PAN NEWS FHD
+http://longitudenow.site:80/23876546/64567832/3682366
+
+#EXTINF:-1  tvg-id="986" tvg-logo="http://smartvtcl.site:8080/images/623f5f18b73c41a9d940f13ed2db46c9.jpg" group-title="3 - Servidor 3",RECORD NEWS FHD
+http://longitudenow.site:80/23876546/64567832/3682552
+
+#EXTINF:-1  tvg-id="987" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_ACL_Cornhole_TV/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",ACL CORNHOLE TV HD
+http://longitudenow.site:80/23876546/64567832/5181934
+
+#EXTINF:-1  tvg-id="988" tvg-logo="https://agendaesportiva.com.br/lib/img/portal/logo/6/icone-titulo-branco.png" group-title="3 - Servidor 3",AGENDA ESPORTIVA
+http://longitudenow.site:80/23876546/64567832/4529474
+
+#EXTINF:-1  tvg-id="989" tvg-logo="https://img.inboxbr.pro/icones_channels/apple-tv.png" group-title="3 - Servidor 3",APPLE TV 01 HD
+http://longitudenow.site:80/23876546/64567832/5376198
+
+#EXTINF:-1  tvg-id="1000" tvg-logo="http://smartvtcl.site:8080/images/af13b4f2c53ef4a37d25164de583abae.jpg" group-title="3 - Servidor 3",BAND NEWS HD
+http://longitudenow.site:80/23876546/64567832/3682361
+
+#EXTINF:-1  tvg-id="1017" tvg-logo="http://smartvtcl.site:8080/images/b92ca3bd619bfa5d2eed95d39938653d.jpg" group-title="3 - Servidor 3",BAND SPORTS FHD
+http://longitudenow.site:80/23876546/64567832/630972
+
+#EXTINF:-1  tvg-id="1018" tvg-logo="http://smartvtcl.site:8080/images/b92ca3bd619bfa5d2eed95d39938653d.jpg" group-title="3 - Servidor 3",BAND SPORTS HD
+http://longitudenow.site:80/23876546/64567832/5375869
+
+#EXTINF:-1  tvg-id="1020" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_Billiard_TV/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",BILLLIARD TV HD
+http://longitudenow.site:80/23876546/64567832/5181933
+
+#EXTINF:-1  tvg-id="1021" tvg-logo="http://smartvtcl.site:8080/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="3 - Servidor 3",BIS FHD
+http://longitudenow.site:80/23876546/64567832/1632162
+
+#EXTINF:-1  tvg-id="1022" tvg-logo="http://smartvtcl.site:8080/images/227cee183f9b009e2f81f2f8339e281b.png" group-title="3 - Servidor 3",BIS HD
+http://longitudenow.site:80/23876546/64567832/1632163
+
+#EXTINF:-1  tvg-id="1023" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_Boxing_TV/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",BOXING TV HD
+http://longitudenow.site:80/23876546/64567832/5181932
+
+#EXTINF:-1  tvg-id="1024" tvg-logo="https://img.inboxbr.pro/icones_channels/futura.png" group-title="3 - Servidor 3",CANAL FUTURA FHD
+http://longitudenow.site:80/23876546/64567832/4481638
+
+#EXTINF:-1  tvg-id="1025" tvg-logo="https://img.inboxbr.pro/icones_channels/futura.png" group-title="3 - Servidor 3",CANAL FUTURA HD
+http://longitudenow.site:80/23876546/64567832/5341913
+
+#EXTINF:-1  tvg-id="1026" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Logo-Yellow.png" group-title="3 - Servidor 3",CANAL GOAT 01 HD
+http://longitudenow.site:80/23876546/64567832/5376120
+
+#EXTINF:-1  tvg-id="1027" tvg-logo="https://canalgoat.com.br/wp-content/uploads/2024/10/Canal-Goat-Logo-Yellow.png" group-title="3 - Servidor 3",CANAL GOAT 02 HD
+http://longitudenow.site:80/23876546/64567832/5376121
+
+#EXTINF:-1  tvg-id="1028" tvg-logo="https://img.inboxbr.pro/icones_channels/redetv!.png" group-title="3 - Servidor 3",CANAL REDE TV FHD
+http://longitudenow.site:80/23876546/64567832/1632712
+
+#EXTINF:-1  tvg-id="1029" tvg-logo="https://img.inboxbr.pro/icones_channels/redetv!.png" group-title="3 - Servidor 3",CANAL REDE TV HD
+http://longitudenow.site:80/23876546/64567832/5341920
+
+#EXTINF:-1  tvg-id="1030" tvg-logo="https://1.bp.blogspot.com/-gBtPX2dQgI8/XPUp4Ve3-VI/AAAAAAAACkM/z5MRB4216tQNecer404Bm9DjajL4cUZMwCLcBGAs/s1600/download%2B%25288%2529.jpg" group-title="3 - Servidor 3",CANAL TV A CRÍTICA FHD
+http://longitudenow.site:80/23876546/64567832/5341912
+
+#EXTINF:-1  tvg-id="1031" tvg-logo="https://1.bp.blogspot.com/-gBtPX2dQgI8/XPUp4Ve3-VI/AAAAAAAACkM/z5MRB4216tQNecer404Bm9DjajL4cUZMwCLcBGAs/s1600/download%2B%25288%2529.jpg" group-title="3 - Servidor 3",CANAL TV A CRÍTICA HD
+http://longitudenow.site:80/23876546/64567832/5341908
+
+#EXTINF:-1  tvg-id="1032" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-brasil.png" group-title="3 - Servidor 3",CANAL TV BRASIL FHD
+http://longitudenow.site:80/23876546/64567832/631394
+
+#EXTINF:-1  tvg-id="1033" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-brasil.png" group-title="3 - Servidor 3",CANAL TV BRASIL HD
+http://longitudenow.site:80/23876546/64567832/5341923
+
+#EXTINF:-1  tvg-id="1034" tvg-logo="https://img.inboxbr.pro/icones_channels/cultura.png" group-title="3 - Servidor 3",CANAL TV CULTURA FHD
+http://longitudenow.site:80/23876546/64567832/743968
+
+#EXTINF:-1  tvg-id="1035" tvg-logo="https://img.inboxbr.pro/icones_channels/cultura.png" group-title="3 - Servidor 3",CANAL TV CULTURA HD
+http://longitudenow.site:80/23876546/64567832/5341921
+
+#EXTINF:-1  tvg-id="1036" tvg-logo="https://img.inboxbr.pro/icones_channels/gazeta.png" group-title="3 - Servidor 3",CANAL TV GAZETA FHD
+http://longitudenow.site:80/23876546/64567832/4965568
+
+#EXTINF:-1  tvg-id="1037" tvg-logo="https://img.inboxbr.pro/icones_channels/gazeta.png" group-title="3 - Servidor 3",CANAL TV GAZETA HD
+http://longitudenow.site:80/23876546/64567832/5341922
+
+#EXTINF:-1  tvg-id="1038" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-senado.png" group-title="3 - Servidor 3",CANAL TV SENADO FHD
+http://longitudenow.site:80/23876546/64567832/5341916
+
+#EXTINF:-1  tvg-id="1039" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-senado.png" group-title="3 - Servidor 3",CANAL TV SENADO HD
+http://longitudenow.site:80/23876546/64567832/5341917
+
+#EXTINF:-1  tvg-id="1040" tvg-logo="https://img.inboxbr.pro/icones_channels/tve.png" group-title="3 - Servidor 3",CANAL TVE FHD
+http://longitudenow.site:80/23876546/64567832/5341909
+
+#EXTINF:-1  tvg-id="1041" tvg-logo="https://img.inboxbr.pro/icones_channels/tve.png" group-title="3 - Servidor 3",CANAL TVE HD
+http://longitudenow.site:80/23876546/64567832/5341910
+
+#EXTINF:-1  tvg-id="1042" tvg-logo="https://img.inboxbr.pro/icones_channels/CazéTV.png" group-title="3 - Servidor 3",CAZÉ TV 01 FHD
+http://longitudenow.site:80/23876546/64567832/3682478
+
+#EXTINF:-1  tvg-id="1043" tvg-logo="https://img.inboxbr.pro/icones_channels/CazéTV.png" group-title="3 - Servidor 3",CAZÉ TV 01 HD
+http://longitudenow.site:80/23876546/64567832/3682479
+
+#EXTINF:-1  tvg-id="1044" tvg-logo="https://img.inboxbr.pro/icones_channels/CazéTV.png" group-title="3 - Servidor 3",CAZÉ TV 02 FHD
+http://longitudenow.site:80/23876546/64567832/3682480
+
+#EXTINF:-1  tvg-id="1045" tvg-logo="https://img.inboxbr.pro/icones_channels/CazéTV.png" group-title="3 - Servidor 3",CAZÉ TV 02 HD
+http://longitudenow.site:80/23876546/64567832/5375883
+
+#EXTINF:-1  tvg-id="1046" tvg-logo="https://img.inboxbr.pro/icones_channels/CazéTV.png" group-title="3 - Servidor 3",CAZÉ TV 03 HD
+http://longitudenow.site:80/23876546/64567832/5375885
+
+#EXTINF:-1  tvg-id="1047" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo-2.png" group-title="3 - Servidor 3",CBN NEWS FHD
+http://longitudenow.site:80/23876546/64567832/5341927
+
+#EXTINF:-1  tvg-id="1048" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/cbn-logo-2.png" group-title="3 - Servidor 3",CBN NEWS HD
+http://longitudenow.site:80/23876546/64567832/5341928
+
+#EXTINF:-1  tvg-id="1050" tvg-logo="http://smartvtcl.site:8080/images/d40af4bdb4100f4b896562d0f8868db1.jpg" group-title="3 - Servidor 3",CNN BRASIL HD
+http://longitudenow.site:80/23876546/64567832/4475890
+
+#EXTINF:-1  tvg-id="1052" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-internacional.png" group-title="3 - Servidor 3",CNN INTERNACIONAL FHD
+http://longitudenow.site:80/23876546/64567832/5181780
+
+#EXTINF:-1  tvg-id="1053" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn-internacional.png" group-title="3 - Servidor 3",CNN INTERNACIONAL HD
+http://longitudenow.site:80/23876546/64567832/5341935
+
+#EXTINF:-1  tvg-id="1054" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn.png" group-title="3 - Servidor 3",CNN PORTUGAL FHD
+http://longitudenow.site:80/23876546/64567832/5341941
+
+#EXTINF:-1  tvg-id="1055" tvg-logo="https://img.inboxbr.pro/icones_channels/cnn.png" group-title="3 - Servidor 3",CNN PORTUGAL HD
+http://longitudenow.site:80/23876546/64567832/5341942
+
+#EXTINF:-1  tvg-id="1056" tvg-logo="http://smartvtcl.site:8080/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="3 - Servidor 3",COMBATE HD
+http://longitudenow.site:80/23876546/64567832/5376126
+
+#EXTINF:-1  tvg-id="1058" tvg-logo="http://smartvtcl.site:8080/images/e74c03661680ce8d79d6cd4b0223f4bb.jpg" group-title="3 - Servidor 3",COMEDY CENTRAL FHD
+http://longitudenow.site:80/23876546/64567832/631022
+
+#EXTINF:-1  tvg-id="1059" tvg-logo="http://smartvtcl.site:8080/images/e74c03661680ce8d79d6cd4b0223f4bb.jpg" group-title="3 - Servidor 3",COMEDY CENTRAL HD
+http://longitudenow.site:80/23876546/64567832/631023
+
+#EXTINF:-1  tvg-id="1060" tvg-logo="http://smartvtcl.site:8080/images/fe1b2cc9cfddba11e0b7151d0f6454ab.png" group-title="3 - Servidor 3",CURTA! FHD
+http://longitudenow.site:80/23876546/64567832/4474930
+
+#EXTINF:-1  tvg-id="1061" tvg-logo="http://smartvtcl.site:8080/images/fe1b2cc9cfddba11e0b7151d0f6454ab.png" group-title="3 - Servidor 3",CURTA! HD
+http://longitudenow.site:80/23876546/64567832/4474929
+
+#EXTINF:-1  tvg-id="1063" tvg-logo="https://img.inboxbr.pro/icones_channels/dazn.png" group-title="3 - Servidor 3",DAZN 01 BR HD
+http://longitudenow.site:80/23876546/64567832/765728
+
+#EXTINF:-1  tvg-id="1064" tvg-logo="https://img.inboxbr.pro/icones_channels/dazn.png" group-title="3 - Servidor 3",DAZN 01 PT HD
+http://longitudenow.site:80/23876546/64567832/34698
+
+#EXTINF:-1  tvg-id="1065" tvg-logo="https://img.inboxbr.pro/icones_channels/dazn Branco.png" group-title="3 - Servidor 3",DAZN 02 BR HD
+http://longitudenow.site:80/23876546/64567832/5376179
+
+#EXTINF:-1  tvg-id="1066" tvg-logo="https://img.inboxbr.pro/icones_channels/dazn Branco.png" group-title="3 - Servidor 3",DAZN 02 PT HD
+http://longitudenow.site:80/23876546/64567832/5376180
+
+#EXTINF:-1  tvg-id="1067" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 02 HD
+http://longitudenow.site:80/23876546/64567832/5427796
+
+#EXTINF:-1  tvg-id="1068" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 03 HD
+http://longitudenow.site:80/23876546/64567832/5427797
+
+#EXTINF:-1  tvg-id="1069" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 04 HD
+http://longitudenow.site:80/23876546/64567832/5427798
+
+#EXTINF:-1  tvg-id="1070" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 05 HD
+http://longitudenow.site:80/23876546/64567832/5427799
+
+#EXTINF:-1  tvg-id="1071" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 06 HD
+http://longitudenow.site:80/23876546/64567832/5427800
+
+#EXTINF:-1  tvg-id="1072" tvg-logo="https://img.inboxbr.pro/icones_channels/eleven-sports.png" group-title="3 - Servidor 3",ELEVEN SPORTS 01
+http://longitudenow.site:80/23876546/64567832/1233159
+
+#EXTINF:-1  tvg-id="1073" tvg-logo="https://img.inboxbr.pro/icones_channels/eleven-sports.png" group-title="3 - Servidor 3",ELEVEN SPORTS 02
+http://longitudenow.site:80/23876546/64567832/1233160
+
+#EXTINF:-1  tvg-id="1074" tvg-logo="https://img.inboxbr.pro/icones_channels/eleven-sports.png" group-title="3 - Servidor 3",ELEVEN SPORTS 03
+http://longitudenow.site:80/23876546/64567832/1233161
+
+#EXTINF:-1  tvg-id="1075" tvg-logo="https://img.inboxbr.pro/icones_channels/eleven-sports.png" group-title="3 - Servidor 3",ELEVEN SPORTS 04
+http://longitudenow.site:80/23876546/64567832/1233162
+
+#EXTINF:-1  tvg-id="1076" tvg-logo="https://img.inboxbr.pro/icones_channels/eleven-sports.png" group-title="3 - Servidor 3",ELEVEN SPORTS 05
+http://longitudenow.site:80/23876546/64567832/1233163
+
+#EXTINF:-1  tvg-id="1077" tvg-logo="https://img.inboxbr.pro/icones_channels/espn.png" group-title="3 - Servidor 3",ESPN 01 HD
+http://longitudenow.site:80/23876546/64567832/5365164
+
+#EXTINF:-1  tvg-id="1078" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-2.png" group-title="3 - Servidor 3",ESPN 02 HD
+http://longitudenow.site:80/23876546/64567832/5365216
+
+#EXTINF:-1  tvg-id="1079" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-3.png" group-title="3 - Servidor 3",ESPN 03 HD
+http://longitudenow.site:80/23876546/64567832/5365946
+
+#EXTINF:-1  tvg-id="1080" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-4.png" group-title="3 - Servidor 3",ESPN 04 HD
+http://longitudenow.site:80/23876546/64567832/5366385
+
+#EXTINF:-1  tvg-id="1081" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-5.png" group-title="3 - Servidor 3",ESPN 05 HD
+http://longitudenow.site:80/23876546/64567832/5366788
+
+#EXTINF:-1  tvg-id="1082" tvg-logo="https://img.inboxbr.pro/icones_channels/espn-6.png" group-title="3 - Servidor 3",ESPN 06 HD
+http://longitudenow.site:80/23876546/64567832/5368062
+
+#EXTINF:-1  tvg-id="1083" tvg-logo="http://smartvtcl.site:8080/images/4f4b914d6db35e19101ff003c4e7ea3a.png" group-title="3 - Servidor 3",FASHION TV FHD
+http://longitudenow.site:80/23876546/64567832/4475033
+
+#EXTINF:-1  tvg-id="1084" tvg-logo="https://img.inboxbr.pro/icones_channels/fashion-tv.png" group-title="3 - Servidor 3",FASHION TV HD
+http://longitudenow.site:80/23876546/64567832/4475032
+
+#EXTINF:-1  tvg-id="1086" tvg-logo="http://smartvtcl.site:8080/images/83e4a96aed96436c621b9809e258b309.png" group-title="3 - Servidor 3",FISH TV FHD
+http://longitudenow.site:80/23876546/64567832/631072
+
+#EXTINF:-1  tvg-id="1087" tvg-logo="http://smartvtcl.site:8080/images/83e4a96aed96436c621b9809e258b309.png" group-title="3 - Servidor 3",FISH TV HD
+http://longitudenow.site:80/23876546/64567832/5376308
+
+#EXTINF:-1  tvg-id="1089" tvg-logo="http://smartvtcl.site:8080/images/62506be34d574da4a0d158a67253ea99.jpg" group-title="3 - Servidor 3",FOOD NETWORK FHD
+http://longitudenow.site:80/23876546/64567832/1632314
+
+#EXTINF:-1  tvg-id="1090" tvg-logo="http://smartvtcl.site:8080/images/62506be34d574da4a0d158a67253ea99.jpg" group-title="3 - Servidor 3",FOOD NETWORK HD
+http://longitudenow.site:80/23876546/64567832/1632315
+
+#EXTINF:-1  tvg-id="1092" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-amazonica.png" group-title="3 - Servidor 3",GLOBO AC - AMAZONICA RIO BRANCO FHD
+http://longitudenow.site:80/23876546/64567832/5175823
+
+#EXTINF:-1  tvg-id="1093" tvg-logo="https://img.inboxbr.pro/icones_channels/rede-amazonica.png" group-title="3 - Servidor 3",GLOBO AC - AMAZONICA RIO BRANCO HD
+http://longitudenow.site:80/23876546/64567832/5175825
+
+#EXTINF:-1  tvg-id="1230" tvg-logo="http://smartvtcl.site:8080/images/fff15b3a1642fbfbc36d061e087814dc.jpg" group-title="3 - Servidor 3",GLOBO NEWS HD
+http://longitudenow.site:80/23876546/64567832/3682364
+
+#EXTINF:-1  tvg-id="1399" tvg-logo="https://img.inboxbr.pro/icones_channels/globo.png" group-title="3 - Servidor 3",GLOBO SP - TV GLOBO SAO PAULO FHD
+http://longitudenow.site:80/23876546/64567832/4481265
+
+#EXTINF:-1  tvg-id="1400" tvg-logo="https://img.inboxbr.pro/icones_channels/globo.png" group-title="3 - Servidor 3",GLOBO SP - TV GLOBO SAO PAULO HD
+http://longitudenow.site:80/23876546/64567832/5176725
+
+#EXTINF:-1  tvg-id="1421" tvg-logo="http://smartvtcl.site:8080/images/a5e669e9a3073f1384994f3b02576748.jpg" group-title="3 - Servidor 3",GNT FHD
+http://longitudenow.site:80/23876546/64567832/1632480
+
+#EXTINF:-1  tvg-id="1422" tvg-logo="http://smartvtcl.site:8080/images/a5e669e9a3073f1384994f3b02576748.jpg" group-title="3 - Servidor 3",GNT HD
+http://longitudenow.site:80/23876546/64567832/1632481
+
+#EXTINF:-1  tvg-id="1424" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2021/02/hard-knocks-logo-sml.png" group-title="3 - Servidor 3",HARD KNOCKS HD
+http://longitudenow.site:80/23876546/64567832/1049179
+
+#EXTINF:-1  tvg-id="1425" tvg-logo="http://smartvtcl.site:8080/images/e9d1106bbda6c8c991747095bcafbc0a.png" group-title="3 - Servidor 3",JOVEM PAN NEWS HD
+http://longitudenow.site:80/23876546/64567832/4475891
+
+#EXTINF:-1  tvg-id="1427" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_Matchroom_Boxing/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",MATCHROOM BOXING HD
+http://longitudenow.site:80/23876546/64567832/5181931
+
+#EXTINF:-1  tvg-id="1428" tvg-logo="https://img.inboxbr.pro/icones_channels/max.png" group-title="3 - Servidor 3",MAX 01 HD
+http://longitudenow.site:80/23876546/64567832/1632498
+
+#EXTINF:-1  tvg-id="1429" tvg-logo="https://img.inboxbr.pro/icones_channels/max.png" group-title="3 - Servidor 3",MAX 02 HD
+http://longitudenow.site:80/23876546/64567832/1632499
+
+#EXTINF:-1  tvg-id="1430" tvg-logo="https://img.inboxbr.pro/icones_channels/max.png" group-title="3 - Servidor 3",MAX 03 HD
+http://longitudenow.site:80/23876546/64567832/1632500
+
+#EXTINF:-1  tvg-id="1431" tvg-logo="https://img.inboxbr.pro/icones_channels/max.png" group-title="3 - Servidor 3",MAX 04 HD
+http://longitudenow.site:80/23876546/64567832/1632501
+
+#EXTINF:-1  tvg-id="1432" tvg-logo="https://img.inboxbr.pro/icones_channels/max.png" group-title="3 - Servidor 3",MAX 05 HD
+http://longitudenow.site:80/23876546/64567832/4723453
+
+#EXTINF:-1  tvg-id="1433" tvg-logo="http://smartvtcl.site:8080/images/8f4d988018a89858ded2e23f44b0b58e.png" group-title="3 - Servidor 3",MODO VIAGEM FHD
+http://longitudenow.site:80/23876546/64567832/4481636
+
+#EXTINF:-1  tvg-id="1434" tvg-logo="https://img.inboxbr.pro/icones_channels/modo-viagem.png" group-title="3 - Servidor 3",MODO VIAGEM HD
+http://longitudenow.site:80/23876546/64567832/1632551
+
+#EXTINF:-1  tvg-id="1436" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_MotorVision/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",MOTORVISION TV HD
+http://longitudenow.site:80/23876546/64567832/5181937
+
+#EXTINF:-1  tvg-id="1437" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LAGUE PASS 01 HD
+http://longitudenow.site:80/23876546/64567832/5175329
+
+#EXTINF:-1  tvg-id="1438" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 02 HD
+http://longitudenow.site:80/23876546/64567832/5175330
+
+#EXTINF:-1  tvg-id="1439" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 03 HD
+http://longitudenow.site:80/23876546/64567832/5175331
+
+#EXTINF:-1  tvg-id="1440" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 04 HD
+http://longitudenow.site:80/23876546/64567832/5175332
+
+#EXTINF:-1  tvg-id="1441" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 05 HD
+http://longitudenow.site:80/23876546/64567832/5175333
+
+#EXTINF:-1  tvg-id="1442" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 06 HD
+http://longitudenow.site:80/23876546/64567832/5175334
+
+#EXTINF:-1  tvg-id="1443" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA League Pass.png" group-title="3 - Servidor 3",NBA LEAGUE PASS 07 HD
+http://longitudenow.site:80/23876546/64567832/5175338
+
+#EXTINF:-1  tvg-id="1444" tvg-logo="https://img.inboxbr.pro/icones_channels/NBA TV.png" group-title="3 - Servidor 3",NBA TV HD
+http://longitudenow.site:80/23876546/64567832/5173720
+
+#EXTINF:-1  tvg-id="1445" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 01 FHD
+http://longitudenow.site:80/23876546/64567832/5376086
+
+#EXTINF:-1  tvg-id="1446" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 01 HD
+http://longitudenow.site:80/23876546/64567832/5376114
+
+#EXTINF:-1  tvg-id="1447" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol-2.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 02 FHD
+http://longitudenow.site:80/23876546/64567832/5376116
+
+#EXTINF:-1  tvg-id="1448" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol-2.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 02 HD
+http://longitudenow.site:80/23876546/64567832/5376117
+
+#EXTINF:-1  tvg-id="1449" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol-3.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 03 FHD
+http://longitudenow.site:80/23876546/64567832/5376118
+
+#EXTINF:-1  tvg-id="1450" tvg-logo="https://img.inboxbr.pro/icones_channels/nosso-futebol-3.png" group-title="3 - Servidor 3",NOSSO FUTEBOL 03 HD
+http://longitudenow.site:80/23876546/64567832/5376119
+
+#EXTINF:-1  tvg-id="1451" tvg-logo="https://img.inboxbr.pro/icones_channels/nsports.png" group-title="3 - Servidor 3",NSPORTS FHD
+http://longitudenow.site:80/23876546/64567832/4723457
+
+#EXTINF:-1  tvg-id="1452" tvg-logo="https://img.inboxbr.pro/icones_channels/nsports.png" group-title="3 - Servidor 3",NSPORTS HD
+http://longitudenow.site:80/23876546/64567832/5375874
+
+#EXTINF:-1  tvg-id="1453" tvg-logo="https://img.inboxbr.pro/icones_channels/pac-12-Insider.png" group-title="3 - Servidor 3",PAC 12 INSIDER HD
+http://longitudenow.site:80/23876546/64567832/1049190
+
+#EXTINF:-1  tvg-id="1454" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-1.png" group-title="3 - Servidor 3",PARAMOUNT+ 01 FHD
+http://longitudenow.site:80/23876546/64567832/1632603
+
+#EXTINF:-1  tvg-id="1455" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-1.png" group-title="3 - Servidor 3",PARAMOUNT+ 01 HD
+http://longitudenow.site:80/23876546/64567832/1632604
+
+#EXTINF:-1  tvg-id="1456" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-2.png" group-title="3 - Servidor 3",PARAMOUNT+ 02 FHD
+http://longitudenow.site:80/23876546/64567832/1632605
+
+#EXTINF:-1  tvg-id="1457" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-3.png" group-title="3 - Servidor 3",PARAMOUNT+ 02 HD
+http://longitudenow.site:80/23876546/64567832/5376122
+
+#EXTINF:-1  tvg-id="1458" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-3.png" group-title="3 - Servidor 3",PARAMOUNT+ 03 FHD
+http://longitudenow.site:80/23876546/64567832/5376123
+
+#EXTINF:-1  tvg-id="1459" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-4.png" group-title="3 - Servidor 3",PARAMOUNT+ 03 HD
+http://longitudenow.site:80/23876546/64567832/5376124
+
+#EXTINF:-1  tvg-id="1460" tvg-logo="https://img.inboxbr.pro/icones_channels/paramountplus-4.png" group-title="3 - Servidor 3",PARAMOUNT+ 04 FHD
+http://longitudenow.site:80/23876546/64567832/5376125
+
+#EXTINF:-1  tvg-id="1461" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_PDC_Darts/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",PDC DARTS HD
+http://longitudenow.site:80/23876546/64567832/5181938
+
+#EXTINF:-1  tvg-id="1462" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_PLL_Network/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",PLL NETWORK HD
+http://longitudenow.site:80/23876546/64567832/5181935
+
+#EXTINF:-1  tvg-id="1463" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_PowerSports_World/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",POWERSPORTS WORLD HD
+http://longitudenow.site:80/23876546/64567832/5181936
+
+#EXTINF:-1  tvg-id="1464" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="3 - Servidor 3",PREIME VIDEO 01 HD
+http://longitudenow.site:80/23876546/64567832/1038838
+
+#EXTINF:-1  tvg-id="1465" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-clubes-hd.png" group-title="3 - Servidor 3",PREMIERE 01 CLUBES HD
+http://longitudenow.site:80/23876546/64567832/5365030
+
+#EXTINF:-1  tvg-id="1466" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-2.png" group-title="3 - Servidor 3",PREMIERE 02 HD
+http://longitudenow.site:80/23876546/64567832/5365039
+
+#EXTINF:-1  tvg-id="1467" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-3.png" group-title="3 - Servidor 3",PREMIERE 03 HD
+http://longitudenow.site:80/23876546/64567832/5365049
+
+#EXTINF:-1  tvg-id="1468" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-4.png" group-title="3 - Servidor 3",PREMIERE 04 HD
+http://longitudenow.site:80/23876546/64567832/5365055
+
+#EXTINF:-1  tvg-id="1469" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-5.png" group-title="3 - Servidor 3",PREMIERE 05 HD
+http://longitudenow.site:80/23876546/64567832/5365066
+
+#EXTINF:-1  tvg-id="1470" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-6.png" group-title="3 - Servidor 3",PREMIERE 06 HD
+http://longitudenow.site:80/23876546/64567832/5365073
+
+#EXTINF:-1  tvg-id="1472" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-7.png" group-title="3 - Servidor 3",PREMIERE 07 HD
+http://longitudenow.site:80/23876546/64567832/5365079
+
+#EXTINF:-1  tvg-id="1473" tvg-logo="https://img.inboxbr.pro/icones_channels/premiere-8.png" group-title="3 - Servidor 3",PREMIERE 08 HD
+http://longitudenow.site:80/23876546/64567832/5365088
+
+#EXTINF:-1  tvg-id="1474" tvg-logo="http://smartvtcl.site:8080/images/3b92f7f04a855752f29622f7ec99257e.png" group-title="3 - Servidor 3",PRIME BOX BRASIL FHD
+http://longitudenow.site:80/23876546/64567832/4475027
+
+#EXTINF:-1  tvg-id="1475" tvg-logo="http://smartvtcl.site:8080/images/3b92f7f04a855752f29622f7ec99257e.png" group-title="3 - Servidor 3",PRIME BOX BRASIL HD
+http://longitudenow.site:80/23876546/64567832/4475026
+
+#EXTINF:-1  tvg-id="1476" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="3 - Servidor 3",PRIME VIDEO 02 HD
+http://longitudenow.site:80/23876546/64567832/1632667
+
+#EXTINF:-1  tvg-id="1477" tvg-logo="https://img.inboxbr.pro/icones_channels/prime-video.png" group-title="3 - Servidor 3",PRIME VIDEO 03 HD
+http://longitudenow.site:80/23876546/64567832/1632668
+
+#EXTINF:-1  tvg-id="1497" tvg-logo="http://smartvtcl.site:8080/images/623f5f18b73c41a9d940f13ed2db46c9.jpg" group-title="3 - Servidor 3",RECORD NEWS HD
+http://longitudenow.site:80/23876546/64567832/3682553
+
+#EXTINF:-1  tvg-id="1509" tvg-logo="https://img.inboxbr.pro/icones_channels/record-tv.png" group-title="3 - Servidor 3",RECORD RJ - TV RIO DE JANEIRO FHD
+http://longitudenow.site:80/23876546/64567832/4480976
+
+#EXTINF:-1  tvg-id="1510" tvg-logo="https://img.inboxbr.pro/icones_channels/record-tv.png" group-title="3 - Servidor 3",RECORD RJ - TV RIO DE JANEIRO HD
+http://longitudenow.site:80/23876546/64567832/4480977
+
+#EXTINF:-1  tvg-id="1540" tvg-logo="https://img.inboxbr.pro/icones_channels/record-tv.png" group-title="3 - Servidor 3",RECORD SP -TV SÃO PAULO FHD
+http://longitudenow.site:80/23876546/64567832/4480988
+
+#EXTINF:-1  tvg-id="1541" tvg-logo="https://img.inboxbr.pro/icones_channels/record-tv.png" group-title="3 - Servidor 3",RECORD SP -TV SÃO PAULO HD
+http://longitudenow.site:80/23876546/64567832/4480989
+
+#EXTINF:-1  tvg-id="1543" tvg-logo="http://redeminas.tv/wp-content/uploads/2014/09/RedeMinas.png" group-title="3 - Servidor 3",REDE MINAS FHD
+http://longitudenow.site:80/23876546/64567832/1632708
+
+#EXTINF:-1  tvg-id="1563" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT PR - REDE MASSA FHD
+http://longitudenow.site:80/23876546/64567832/1632737
+
+#EXTINF:-1  tvg-id="1564" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT PR - REDE MASSA HD
+http://longitudenow.site:80/23876546/64567832/4474871
+
+#EXTINF:-1  tvg-id="1565" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT RJ - SBT  RIO FHD
+http://longitudenow.site:80/23876546/64567832/1632739
+
+#EXTINF:-1  tvg-id="1566" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT RJ - SBT  RIO HD
+http://longitudenow.site:80/23876546/64567832/4474870
+
+#EXTINF:-1  tvg-id="1571" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT SP - SBT SAO PAULO FHD
+http://longitudenow.site:80/23876546/64567832/5181781
+
+#EXTINF:-1  tvg-id="1572" tvg-logo="https://img.inboxbr.pro/icones_channels/sbt.png" group-title="3 - Servidor 3",SBT SP - SBT SAO PAULO HD
+http://longitudenow.site:80/23876546/64567832/631409
+
+#EXTINF:-1  tvg-id="1574" tvg-logo="https://img.inboxbr.pro/icones_channels/sic-internacional.png" group-title="3 - Servidor 3",SIC INTERNACIONAL FHD
+http://longitudenow.site:80/23876546/64567832/5341943
+
+#EXTINF:-1  tvg-id="1575" tvg-logo="https://img.inboxbr.pro/icones_channels/sic-internacional.png" group-title="3 - Servidor 3",SIC INTERNACIONAL HD
+http://longitudenow.site:80/23876546/64567832/5341944
+
+#EXTINF:-1  tvg-id="1576" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv.png" group-title="3 - Servidor 3",SPORTV 01 HD
+http://longitudenow.site:80/23876546/64567832/5365103
+
+#EXTINF:-1  tvg-id="1577" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-2.png" group-title="3 - Servidor 3",SPORTV 02 HD²
+http://longitudenow.site:80/23876546/64567832/5365112
+
+#EXTINF:-1  tvg-id="1578" tvg-logo="https://img.inboxbr.pro/icones_channels/sportv-3.png" group-title="3 - Servidor 3",SPORTV 03 HD
+http://longitudenow.site:80/23876546/64567832/5365119
+
+#EXTINF:-1  tvg-id="1579" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="3 - Servidor 3",TNT SPORTS 01 HD
+http://longitudenow.site:80/23876546/64567832/3666506
+
+#EXTINF:-1  tvg-id="1580" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="3 - Servidor 3",TNT SPORTS 02 HD
+http://longitudenow.site:80/23876546/64567832/3666507
+
+#EXTINF:-1  tvg-id="1581" tvg-logo="https://img.inboxbr.pro/icones_channels/estadio-tnt-sports.png" group-title="3 - Servidor 3",TNT SPORTS 03 HD
+http://longitudenow.site:80/23876546/64567832/3666508
+
+#EXTINF:-1  tvg-id="1582" tvg-logo="https://img.inboxbr.pro/icones_channels/tv-camara.png" group-title="3 - Servidor 3",TV CAMARA FHD
+http://longitudenow.site:80/23876546/64567832/1632860
+
+#EXTINF:-1  tvg-id="1585" tvg-logo="https://image.discovery.indazn.com/ca/v3/linear-channel/none/Logo_LTV_Unbeaten/contain/center/center/none/85/85/70/png/image" group-title="3 - Servidor 3",UNBEATEN HD
+http://longitudenow.site:80/23876546/64567832/5181939
+
+#EXTINF:-1  tvg-id="1586" tvg-logo="https://t3.ftcdn.net/jpg/04/51/58/76/360_F_451587634_iVJKobsbjLpbtBY0HTkZ2tzgUVGHfzEU.jpg" group-title="3 - Servidor 3",WORDING TV
+http://longitudenow.site:80/23876546/64567832/4934257
+
+#EXTINF:-1  tvg-id="1587" tvg-logo="https://img.inboxbr.pro/icones_channels/disney-plus.png" group-title="3 - Servidor 3",DISNEY+ 01 HD
+http://longitudenow.site:80/23876546/64567832/5427795
+
+#EXTINF:-1  tvg-id="1588" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Federa%C3%A7%C3%A3o_Paulista.png" group-title="3 - Servidor 3",FEDERAÇÃO PAULISTA DE FUTEBOL
+http://longitudenow.site:80/23876546/64567832/5437077
+
+#EXTINF:-1  tvg-id="1591" tvg-logo="https://yt3.googleusercontent.com/5vxcNDHEf5r6neNsOZ71qYsleG0KEU2ExZeuPR0EaqW1oGNXVOLlSwe60FB3tdBcxL-lZ9MvXw=s160-c-k-c0x00ffffff-no-rj" group-title="3 - Servidor 3",LIGA NACIONAL DE FUTSAL
+http://longitudenow.site:80/23876546/64567832/5437195
+
+#EXTINF:-1  tvg-id="1592" tvg-logo="https://img.inboxbr.pro/icones_channels/canal-uol.png" group-title="3 - Servidor 3",CANAL UOL FHD
+http://longitudenow.site:80/23876546/64567832/5437196
+
 #EXTINF:-1 tvg-name="Globo" tvg-id="Globo" tvg-logo="https://i.imgur.com/waZJG1M.png" group-title="ABERTA",Globo SP
 http://tv.proyectox.vip:8080/lopjorgetv2/B2HcOqCMW0/10608
 
